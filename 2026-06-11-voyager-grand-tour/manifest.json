@@ -1,0 +1,31 @@
+{
+  "id": "2026-06-11-voyager-grand-tour",
+  "status": "ready",
+  "topic": "Voyager 2 used a rare alignment to visit four giant planets",
+  "language": "pl",
+  "formats": {
+    "instagramStories": {
+      "count": 5,
+      "width": 1080,
+      "height": 1920
+    },
+    "facebookLinkedin": {
+      "count": 2,
+      "width": 1200,
+      "height": 1500
+    }
+  },
+  "provenance": {
+    "illustrations": [
+      "next-app/public/art/gouache-voyager-grand-tour.png",
+      "next-app/public/art/painted-voyager.png",
+      "next-app/public/art/gouache-mission-observatory.png"
+    ],
+    "productScreenshot": "source/voyager-app-screen.png",
+    "scienceSources": [
+      "https://science.nasa.gov/mission/voyager/voyager-2/",
+      "https://science.nasa.gov/mission/voyager/planetary-voyage/"
+    ],
+    "composition": "Deterministic AppKit render from social/source/render-warm-missions.swift; full-bleed native art with local translucent text veils"
+  }
+}

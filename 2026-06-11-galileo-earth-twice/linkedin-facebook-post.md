@@ -1,20 +1,24 @@
 # LinkedIn
 
-Ta sama Ziemia. Dwa spotkania. Dokładnie dwa lata różnicy.
+Słuchajcie, ja naprawdę uwielbiam tę historię.
 
-Galileo minął Ziemię 8 grudnia 1990 roku. Jej grawitacja zmieniła prędkość
-i kierunek sondy, ale nie wysłała jej jeszcze prosto do Jowisza.
+Galileo spotkał Ziemię 8 grudnia 1990 roku. Nasza planeta zmieniła prędkość
+i kierunek sondy, ale to jeszcze nie wystarczyło, żeby dolecieć do Jowisza.
 
-Zamiast tego Galileo zatoczył dużą, dwuletnią pętlę wokół Słońca i 8 grudnia
-1992 roku wrócił do tej samej planety po drugie grawitacyjne „podanie”.
-Dopiero wtedy dostał trajektorię potrzebną, by dotrzeć do Jowisza.
+Więc Galileo zrobił wielką pętlę wokół Słońca. Przez dwa lata.
 
-To jest dokładnie ten rodzaj historii, który chcę pokazywać w Kosmicznym
-Laboratorium. Nie jako daty do zapamiętania, tylko jako drogę, którą dziecko
-może przesuwać w czasie i obserwować krok po kroku.
+I 8 grudnia 1992 wrócił do tej samej Ziemi po drugie grawitacyjne podanie.
+Dopiero ono pomogło ustawić dalszą drogę ku Jowiszowi.
 
-Bo „Ziemia 1990” i „Ziemia 1992” na schemacie łatwo wyglądają jak dwie planety.
-W aplikacji zostaje jedna Ziemia. Zmienia się czas, położenie sondy i jej tor.
+Właśnie dlatego zbudowałem w Kosmicznym Laboratorium oś czasu całej misji.
+Dziecko przesuwa sześć lat własnym palcem i widzi jedną Ziemię, dwa spotkania
+i tor, który zmienia się krok po kroku.
+
+Na schemacie „Ziemia 1990” i „Ziemia 1992” łatwo wyglądają jak dwie planety.
+A przecież to jedna planeta i jedna niesamowita podróż.
+
+To jest ten moment, który mnie totalnie jara: kiedy data przestaje być datą,
+a staje się ruchem, który można naprawdę zrozumieć.
 
 Źródło naukowe: NASA.
 
@@ -22,20 +26,18 @@ W aplikacji zostaje jedna Ziemia. Zmienia się czas, położenie sondy i jej tor
 
 # Facebook
 
-Czy statek kosmiczny może odwiedzić tę samą Ziemię dwa razy, żeby dolecieć
-do Jowisza?
+Hej, zobaczcie to: Galileo odwiedził tę samą Ziemię dwa razy.
+Dokładnie w odstępie dwóch lat.
 
-Galileo zrobił właśnie to. Pierwszy raz przeleciał obok naszej planety
-8 grudnia 1990 roku. Potem zatoczył dużą pętlę wokół Słońca i wrócił dokładnie
-dwa lata później. Drugi przelot dał mu zmianę prędkości i kierunku potrzebną
-do dalszej podróży.
+Pierwszy przelot wydarzył się 8 grudnia 1990. Ziemia zmieniła prędkość
+i kierunek sondy, ale do Jowisza nadal było za daleko. Galileo zatoczył więc
+wielką pętlę wokół Słońca i wrócił 8 grudnia 1992 po drugie grawitacyjne
+podanie.
 
-W Kosmicznym Laboratorium dziecko nie dostaje tylko gotowego schematu. Może
-przesuwać znacznik po sześciu latach misji i zobaczyć Wenus, pierwszy przelot,
-dwuletnią pętlę, powrót do tej samej Ziemi i drogę ku Jowiszowi.
+Zbudowałem tę historię tak, żeby dziecko mogło przesunąć całą misję palcem:
+Wenus, pierwsze spotkanie z Ziemią, dwuletnia pętla, powrót i dalsza droga.
 
-Nie chodzi o zapamiętanie dwóch dat. Chodzi o zobaczenie, że grawitacja planety
-potrafi zmienić drogę statku bez ciągnięcia go jak na sznurku.
+Uwielbiam, kiedy z dwóch dat robi się prawdziwa podróż. I kiedy nagle widać,
+że „Ziemia 1990” i „Ziemia 1992” to nie dwie planety. To my. Dwa razy.
 
 Źródło naukowe: NASA.
-

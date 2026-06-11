@@ -25,7 +25,6 @@
       "https://science.nasa.gov/mission/galileo/",
       "https://www.nasa.gov/history/35-years-ago-sts-34-sends-galileo-on-its-way-to-jupiter/"
     ],
-    "composition": "Deterministic AppKit render"
+    "composition": "Deterministic AppKit render from social/source/render-warm-missions.swift; full-bleed native art with local translucent text veils"
   }
 }
-

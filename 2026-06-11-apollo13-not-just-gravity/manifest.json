@@ -1,0 +1,31 @@
+{
+  "id": "2026-06-11-apollo13-not-just-gravity",
+  "status": "ready",
+  "topic": "Apollo 13 needed a free-return trajectory and engine burns",
+  "language": "pl",
+  "formats": {
+    "instagramStories": {
+      "count": 5,
+      "width": 1080,
+      "height": 1920
+    },
+    "facebookLinkedin": {
+      "count": 2,
+      "width": 1200,
+      "height": 1500
+    }
+  },
+  "provenance": {
+    "illustrations": [
+      "next-app/public/art/gouache-moon-observatory.png",
+      "next-app/public/art/painted-apollo-13-docked.png",
+      "next-app/public/art/gouache-mission-observatory.png"
+    ],
+    "productScreenshot": "source/apollo13-app-screen.png",
+    "scienceSources": [
+      "https://www.nasa.gov/history/houston-weve-had-a-problem/",
+      "https://www.nasa.gov/missions/apollo/apollo-13/"
+    ],
+    "composition": "Deterministic AppKit render from social/source/render-warm-missions.swift; full-bleed native art with local translucent text veils"
+  }
+}

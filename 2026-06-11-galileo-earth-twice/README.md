@@ -1,7 +1,7 @@
 # Galileo: ta sama Ziemia dwa razy
 
-Drugi pakiet komunikacji. Wykorzystuje wyłącznie malarskie grafiki i prawdziwy
-ekran Kosmicznego Laboratorium.
+Pakiet komunikacji w ciepłym, osobistym głosie Mieszka. Wykorzystuje wyłącznie
+pełnokadrowe grafiki z aplikacji i prawdziwy ekran Kosmicznego Laboratorium.
 
 ## Gotowe formaty
 
@@ -10,6 +10,9 @@ ekran Kosmicznego Laboratorium.
 - `galileo-earth-twice.zip` - pełna paczka do publikacji;
 - `linkedin-facebook-post.md` - osobne wersje copy;
 - `preview.png` - szybki podgląd zestawu.
+
+Tekst jest nakładany bez ciężkich, jednolitych paneli. Czytelność zapewniają
+cień i miękkie gradienty, które nie zasłaniają malarskiej ilustracji.
 
 ## Status
 
@@ -21,4 +24,3 @@ ekran Kosmicznego Laboratorium.
 - NASA History: https://www.nasa.gov/history/35-years-ago-sts-34-sends-galileo-on-its-way-to-jupiter/
 - ekran aplikacji: `source/galileo-app-screen.png`
 - ilustracja: `next-app/public/art/gouache-galileo-veega-single-earth.png`
-
