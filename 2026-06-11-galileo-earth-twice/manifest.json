@@ -1,0 +1,31 @@
+{
+  "id": "2026-06-11-galileo-earth-twice",
+  "status": "ready",
+  "topic": "Galileo visited the same Earth twice",
+  "language": "pl",
+  "formats": {
+    "instagramStories": {
+      "count": 5,
+      "width": 1080,
+      "height": 1920
+    },
+    "facebookLinkedin": {
+      "count": 2,
+      "width": 1200,
+      "height": 1500
+    }
+  },
+  "provenance": {
+    "illustrations": [
+      "next-app/public/art/gouache-galileo-veega-single-earth.png",
+      "next-app/public/art/gouache-observatory-night.png"
+    ],
+    "productScreenshot": "source/galileo-app-screen.png",
+    "scienceSources": [
+      "https://science.nasa.gov/mission/galileo/",
+      "https://www.nasa.gov/history/35-years-ago-sts-34-sends-galileo-on-its-way-to-jupiter/"
+    ],
+    "composition": "Deterministic AppKit render"
+  }
+}
+
