@@ -1,0 +1,32 @@
+{
+  "id": "2026-06-12-seasons-not-distance",
+  "status": "ready",
+  "topic": "Seasons are driven mainly by Earth's axial tilt, not distance from the Sun",
+  "language": "pl",
+  "formats": {
+    "instagramStories": {
+      "count": 5,
+      "width": 1080,
+      "height": 1920
+    },
+    "facebookLinkedin": {
+      "count": 2,
+      "width": 1200,
+      "height": 1500
+    }
+  },
+  "provenance": {
+    "illustrations": [
+      "next-app/public/art/gouache-seasons-observatory.png",
+      "next-app/public/art/gouache-seasons-observatory-heliocentric.png",
+      "next-app/public/art/painted-earth.png",
+      "next-app/public/art/painted-sun.png"
+    ],
+    "productScreenshot": "source/seasons-app-screen.png",
+    "scienceSources": [
+      "https://spaceplace.nasa.gov/seasons/en/",
+      "https://science.nasa.gov/earth/facts/"
+    ],
+    "composition": "Deterministic AppKit render from social/source/render-seasons-pack.swift; native application art plus a true Seasons laboratory screenshot from the running SM worktree"
+  }
+}
