@@ -1,0 +1,31 @@
+{
+  "id": "2026-06-12-moon-phases-not-earth-shadow",
+  "status": "ready",
+  "topic": "Moon phases are not caused by Earth's daily shadow",
+  "language": "pl",
+  "formats": {
+    "instagramStories": {
+      "count": 5,
+      "width": 1080,
+      "height": 1920
+    },
+    "facebookLinkedin": {
+      "count": 2,
+      "width": 1200,
+      "height": 1500
+    }
+  },
+  "provenance": {
+    "illustrations": [
+      "next-app/public/art/gouache-moon-observatory.png",
+      "next-app/public/art/painted-moon.png"
+    ],
+    "productScreenshot": "source/moon-app-screen.png",
+    "scienceSources": [
+      "https://science.nasa.gov/moon/moon-phases/",
+      "https://science.nasa.gov/moon/top-moon-questions/",
+      "https://science.nasa.gov/moon/eclipses/"
+    ],
+    "composition": "Deterministic AppKit render from social/source/render-moon-phases-pack.swift; native art plus true Moon laboratory screenshots from the running app"
+  }
+}
