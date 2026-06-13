@@ -1,0 +1,37 @@
+{
+  "id": "2026-06-13-magnet-not-every-metal",
+  "status": "ready",
+  "topic": "A magnet does not attract every metal; it strongly attracts ferromagnetic materials, while gravity acts on every mass",
+  "language": "pl",
+  "formats": {
+    "instagramStories": {
+      "count": 5,
+      "width": 1080,
+      "height": 1920
+    },
+    "facebookLinkedin": {
+      "count": 2,
+      "width": 1200,
+      "height": 1500
+    }
+  },
+  "provenance": {
+    "illustrations": [
+      "next-app/public/art/gouache-magnet-workbench.jpg",
+      "next-app/public/art/painted-magnet.png",
+      "next-app/public/art/magnet-objects/spinacz.png",
+      "next-app/public/art/magnet-objects/srubka.png",
+      "next-app/public/art/magnet-objects/meteoryt.png",
+      "next-app/public/art/magnet-objects/kaczka.png",
+      "next-app/public/art/magnet-objects/klocek.png"
+    ],
+    "productScreenshot": "source/magnet-app-screen.png",
+    "scienceSources": [
+      "https://nationalmaglab.org/magnet-academy/try-this-at-home/magnetic-hopping/",
+      "https://nationalmaglab.org/magnet-academy/plan-a-lesson/magnetizing-and-unmagnetizing/",
+      "https://www.usgs.gov/faqs/how-does-earths-core-generate-a-magnetic-field",
+      "https://www.usgs.gov/faqs/earth-a-magnet"
+    ],
+    "composition": "Deterministic AppKit render from social/source/render-magnet-pack.swift; native application art plus a true magnet laboratory screenshot captured from the running localhost preview"
+  }
+}
