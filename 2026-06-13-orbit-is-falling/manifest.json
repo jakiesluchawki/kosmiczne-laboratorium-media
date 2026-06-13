@@ -1,0 +1,31 @@
+{
+  "id": "2026-06-13-orbit-is-falling",
+  "status": "ready",
+  "topic": "An orbit is continuous free fall in which forward motion keeps an object missing Earth",
+  "language": "pl",
+  "formats": {
+    "instagramStories": {
+      "count": 5,
+      "width": 1080,
+      "height": 1920
+    },
+    "facebookLinkedin": {
+      "count": 2,
+      "width": 1200,
+      "height": 1500
+    }
+  },
+  "provenance": {
+    "illustrations": [
+      "next-app/public/art/gouache-orbit-rescue.png",
+      "next-app/public/art/painted-earth.png",
+      "next-app/public/art/painted-projectile.png"
+    ],
+    "productScreenshot": "source/orbit-app-screen-1440x900.png",
+    "scienceSources": [
+      "https://spaceplace.nasa.gov/orbits/en/",
+      "https://www.nesdis.noaa.gov/about/k-12-education/satellites-technology/why-dont-satellites-fall-out-of-the-sky"
+    ],
+    "composition": "Deterministic AppKit render from social/source/render-human-product-packs.swift; native application art and a true localhost orbit screen captured with social/source/capture-local-app.swift"
+  }
+}

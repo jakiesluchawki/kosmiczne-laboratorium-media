@@ -1,0 +1,33 @@
+{
+  "id": "2026-06-13-discovery-notebook",
+  "status": "ready",
+  "topic": "The discovery notebook records predictions, experiments, and explanations instead of points or grades",
+  "language": "pl",
+  "formats": {
+    "instagramStories": {
+      "count": 5,
+      "width": 1080,
+      "height": 1920
+    },
+    "facebookLinkedin": {
+      "count": 2,
+      "width": 1200,
+      "height": 1500
+    }
+  },
+  "provenance": {
+    "illustrations": [
+      "next-app/public/art/gouache-discovery-treasure-book.png",
+      "next-app/public/art/painted-earth.png",
+      "next-app/public/art/painted-projectile.png",
+      "next-app/public/art/painted-magnet.png",
+      "next-app/public/art/painted-moon.png"
+    ],
+    "productScreenshot": "source/notebook-app-screen-1440x900.png",
+    "productSources": [
+      "next-app/src/App.jsx",
+      "docs/agent/PRODUCT_CONTENT.md"
+    ],
+    "composition": "Deterministic AppKit render from social/source/render-human-product-packs.swift; native application art and a true localhost discovery notebook screen captured with social/source/capture-local-app.swift"
+  }
+}

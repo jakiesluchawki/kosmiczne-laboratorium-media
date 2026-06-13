@@ -1,0 +1,33 @@
+{
+  "id": "2026-06-13-same-lab-every-screen",
+  "status": "ready",
+  "topic": "The same learning flow is rearranged for phone and tablet without removing the prediction, experiment, or discovery",
+  "language": "pl",
+  "formats": {
+    "instagramStories": {
+      "count": 5,
+      "width": 1080,
+      "height": 1920
+    },
+    "facebookLinkedin": {
+      "count": 2,
+      "width": 1200,
+      "height": 1500
+    }
+  },
+  "provenance": {
+    "illustrations": [
+      "next-app/public/art/gouache-mission-observatory.png"
+    ],
+    "productScreenshots": [
+      "source/lab-phone-390x844.png",
+      "source/lab-tablet-1024x768.png"
+    ],
+    "productSources": [
+      "next-app/src/App.jsx",
+      "next-app/src/styles.css",
+      "next-app/UX_INTEGRATION.md"
+    ],
+    "composition": "Deterministic AppKit render from social/source/render-human-product-packs.swift; native application art and true localhost phone and tablet screens captured with social/source/capture-local-app.swift"
+  }
+}
