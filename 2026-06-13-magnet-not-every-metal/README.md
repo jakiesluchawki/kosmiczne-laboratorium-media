@@ -1,8 +1,8 @@
-# Magnes: nie wszystko, co metalowe, daje się złapać
+# Czy magnes przyciąga każdy metal?
 
 Gotowy pakiet o tym, że zwykły magnes nie przyciąga po prostu „metalu”, tylko
-silnie reaguje głównie z ferromagnetykami. Dodatkowo wyjaśnia, że Ziemia ma
-pole magnetyczne, ale nie jest jednym wielkim magnesem ukrytym w środku.
+silnie reaguje z wybranymi materiałami. Sekwencja porównuje także magnetyzm
+z grawitacją, która działa na każdy przedmiot z masą.
 
 - `instagram-stories/` - pięć plansz 1080 x 1920;
 - `facebook-linkedin/` - dwa obrazy 1200 x 1500;
@@ -22,8 +22,6 @@ prawdziwego ekranu laboratorium magnesów z działającej aplikacji.
 
 - National MagLab: https://nationalmaglab.org/magnet-academy/try-this-at-home/magnetic-hopping/
 - National MagLab: https://nationalmaglab.org/magnet-academy/plan-a-lesson/magnetizing-and-unmagnetizing/
-- USGS: https://www.usgs.gov/faqs/how-does-earths-core-generate-a-magnetic-field
-- USGS: https://www.usgs.gov/faqs/earth-a-magnet
 - ekran aplikacji: `source/magnet-app-screen.png`
 - ilustracje: `next-app/public/art/gouache-magnet-workbench.jpg`,
   `next-app/public/art/painted-magnet.png`,

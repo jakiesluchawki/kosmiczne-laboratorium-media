@@ -11,5 +11,5 @@ księżycowego Aquarius.
 - `manifest.json` - źródła i parametry publikacji.
 
 Pakiet korzysta z prawdziwego ekranu aplikacji i malarskich assetów Apollo 13
-z Kosmicznego Laboratorium. Tekst ma osobisty głos Mieszka i nie zasłania
+z Kosmicznego Laboratorium. Tekst prowadzi przez kolejne manewry i nie zasłania
 ilustracji ciężkimi, jednolitymi panelami.

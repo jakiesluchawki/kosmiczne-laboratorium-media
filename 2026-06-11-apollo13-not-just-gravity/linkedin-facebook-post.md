@@ -1,25 +1,20 @@
 # LinkedIn
 
-Przy Apollo 13 najbardziej uwierało mnie jedno słowo: „proca”.
+Powrót Apollo 13 bywa opisywany jako grawitacyjna „proca” przy Księżycu.
+Grawitacja rzeczywiście pomogła, ale sama nie wystarczyła.
 
-Brzmi świetnie. Tylko że łatwo z niego wyciągnąć historię, w której Księżyc
-zakrzywił tor statku i właściwie załatwił cały powrót. A prawdziwa historia jest
-dużo lepsza.
+Po eksplozji zbiornika z tlenem statek nie znajdował się na bezpiecznej
+trajektorii swobodnego powrotu. Załoga uruchomiła silnik modułu księżycowego
+Aquarius na 34 sekundy. Ten manewr skierował statek na tor, który grawitacja
+Księżyca mogła zakrzywić ku Ziemi.
 
-Po eksplozji zbiornika z tlenem Apollo 13 nie znajdował się na bezpiecznej
-trajektorii swobodnego powrotu. Załoga uruchomiła więc silnik modułu księżycowego
-Aquarius na 34 sekundy. Dopiero to skierowało statek na drogę, którą grawitacja
-Księżyca mogła zakrzywić z powrotem ku Ziemi. Po minięciu Księżyca silnik
-Aquarius pracował jeszcze 4 minuty i 24 sekundy. Ten manewr skrócił powrót
-i poprawił miejsce wodowania.
+Po minięciu Księżyca silnik Aquarius pracował jeszcze 4 minuty i 24 sekundy.
+Manewr skrócił czas powrotu i poprawił miejsce wodowania.
 
-Właśnie dlatego w Kosmicznym Laboratorium nie pokazuję jednej magicznej
-animacji. Dziecko przechodzi przez etapy: lot ku Księżycowi, odpalenie silnika,
-zakrzywienie toru i przygotowanie bezpiecznego powrotu.
-
-Im dłużej nad tym pracuję, tym bardziej zachwyca mnie ta historia. To nie jest
-opowieść o jednym triku. To jest grawitacja, obliczenia i ludzie, którzy potrafili
-zrobić właściwą rzecz w bardzo niewłaściwym momencie.
+W Kosmicznym Laboratorium pokazuję każdy etap osobno: uruchomienie silnika,
+przelot obok Księżyca, zmianę toru i kolejną korektę. Dzięki temu historia
+nie sprowadza się do jednego efektownego skrótu. Widać sekwencję decyzji,
+obliczeń i manewrów, które razem umożliwiły powrót.
 
 Źródło naukowe: NASA.
 
@@ -27,18 +22,14 @@ zrobić właściwą rzecz w bardzo niewłaściwym momencie.
 
 # Facebook
 
-Czy Apollo 13 uratowała grawitacyjna „proca” przy Księżycu? Nie sama.
+Czy Apollo 13 wrócił dzięki samej grawitacji Księżyca? Nie.
 
-Po awarii statek potrzebował najpierw uruchomienia silnika modułu księżycowego
-Aquarius. Załoga odpaliła go na 34 sekundy, żeby wrócić na trajektorię
-swobodnego powrotu. Dopiero wtedy Księżyc mógł zakrzywić drogę statku ku Ziemi.
-Po minięciu Księżyca Aquarius pracował jeszcze 4 minuty i 24 sekundy, żeby
-skrócić powrót i poprawić miejsce wodowania.
+Po awarii załoga uruchomiła silnik modułu księżycowego Aquarius na 34 sekundy,
+żeby wrócić na trajektorię swobodnego powrotu. Grawitacja Księżyca zakrzywiła
+potem tor statku ku Ziemi. Po minięciu Księżyca Aquarius pracował jeszcze
+4 minuty i 24 sekundy, skracając powrót i poprawiając miejsce wodowania.
 
-W Kosmicznym Laboratorium dziecko widzi te kroki osobno. Nie ma magicznego
-skrętu w kosmosie. Jest decyzja, silnik, grawitacja i wspólna droga do domu.
-
-I właśnie to jest w tej historii najlepsze: prawda jest znacznie ciekawsza niż
-skrót.
+W Kosmicznym Laboratorium dziecko widzi te etapy osobno. To nie jeden manewr,
+ale precyzyjna sekwencja działań.
 
 Źródło naukowe: NASA.

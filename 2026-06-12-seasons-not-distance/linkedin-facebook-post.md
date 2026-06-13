@@ -1,32 +1,22 @@
 # LinkedIn
 
-Słuchajcie, zbudowałem przycisk „wyłącz pory roku”.
+Przy ekranie o porach roku zależało mi na jednej rzeczy: żeby dało się
+sprawdzić popularne wyjaśnienie, a nie tylko przeczytać poprawną odpowiedź.
 
-I jestem nim absurdalnie podekscytowany.
+Wiele osób kojarzy lato z tym, że Ziemia jest bliżej Słońca. Tymczasem Ziemia
+znajduje się najbliżej Słońca na początku stycznia, kiedy w Polsce trwa zima.
+Najdalej jest na początku lipca.
 
-Siedziałem nad tym ekranem w nocy, przełączałem go raz za razem i za każdym
-razem miałem dokładnie tę samą reakcję: oooo, przecież właśnie tak powinno się
-tego uczyć.
+Pory roku wynikają głównie z nachylenia osi Ziemi o około 23,5°. Latem półkula
+północna jest bardziej zwrócona ku Słońcu. Dni są wtedy dłuższe, a światło
+pada bardziej prosto. Na półkuli południowej sytuacja jest odwrotna.
 
-Bo intuicja potrafi tu zrobić psikusa. „Latem jest cieplej, bo Ziemia jest
-bliżej Słońca” brzmi całkiem sensownie. Tyle że Ziemia jest najbliżej Słońca
-na początku stycznia, kiedy w Polsce mamy zimę. Najdalej jest w lipcu.
+W Kosmicznym Laboratorium dziecko przesuwa Ziemię po orbicie, porównuje Polskę
+z Nową Zelandią, a potem wyłącza nachylenie osi. Gdy oś staje prosto, różnice
+między porami roku prawie znikają.
 
-Pory roku robi głównie przechył osi Ziemi, około 23,5°. Latem półkula północna
-jest pochylona ku Słońcu: dzień trwa dłużej, a światło pada bardziej prosto.
-W tym samym czasie w Nowej Zelandii jest zima.
-
-W Kosmicznym Laboratorium dziecko najpierw wybiera własną hipotezę. Potem
-przesuwa Ziemię po orbicie, porównuje Polskę z Nową Zelandią i w końcu robi
-najlepszą rzecz: wyłącza przechył osi.
-
-I wyraźne pory roku znikają.
-
-Nie trzeba wierzyć tekstowi. Nie trzeba wkuwać zdania. Jedno kliknięcie i jest
-ten mały, cudowny moment: „aaaa, to dlatego!”.
-
-Właśnie po takie momenty siedzę nad tą aplikacją po nocach. Naprawdę mam ochotę
-pokazywać ten ekran każdemu.
+Lubię ten ekran, bo jedna zmiana w modelu daje natychmiast widoczny skutek.
+Nie trzeba zgadywać, które wyjaśnienie jest poprawne. Można je sprawdzić.
 
 Źródła naukowe: NASA Space Place i NASA Science.
 
@@ -34,23 +24,18 @@ pokazywać ten ekran każdemu.
 
 # Facebook
 
-Słuchajcie, mam nowy ulubiony guzik w aplikacji.
+Dlaczego mamy pory roku? Nie dlatego, że latem Ziemia jest bliżej Słońca.
 
-Nazywa się „wyłącz pory roku”. Tak. Naprawdę.
+Najbliżej Słońca znajdujemy się na początku stycznia, kiedy w Polsce trwa
+zima. Pory roku wynikają głównie z nachylenia osi Ziemi o około 23,5°.
+Latem półkula północna jest bardziej zwrócona ku Słońcu, więc dni są dłuższe,
+a światło pada bardziej prosto.
 
-I strasznie mnie cieszy, bo jednym kliknięciem rozprawia się z bardzo
-intuicyjnym mitem: że lato przychodzi wtedy, kiedy Ziemia jest bliżej Słońca.
-Tymczasem najbliżej Słońca jesteśmy na początku stycznia, a najdalej w lipcu.
+W Kosmicznym Laboratorium dziecko może przesunąć Ziemię po orbicie, porównać
+obie półkule, a potem wyłączyć nachylenie osi. Gdy oś staje prosto, wyraźne
+różnice między porami roku prawie znikają.
 
-Pory roku tworzy przede wszystkim przechył osi Ziemi. Kiedy Polska pochyla się
-ku Słońcu, dzień jest dłuższy, a promienie padają bardziej prosto. Po drugiej
-stronie globu, w Nowej Zelandii, trwa wtedy zima.
-
-W aplikacji dziecko może przesunąć Ziemię po orbicie, porównać obie półkule,
-a potem wyłączyć przechył osi i zobaczyć, jak wyraźne pory roku po prostu
-znikają.
-
-Przełączam ten eksperyment w kółko i nadal mnie zachwyca. To jest dokładnie ten
-moment „oooo!”, dla którego buduję Kosmiczne Laboratorium.
+To jeden z tych eksperymentów, w których pojedyncza zmiana od razu pokazuje,
+co naprawdę odpowiada za obserwowane zjawisko.
 
 Źródła naukowe: NASA Space Place i NASA Science.

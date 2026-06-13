@@ -1,4 +1,4 @@
-# Fazy Księżyca: to nie codzienny cień Ziemi
+# Fazy Księżyca: to nie cień Ziemi
 
 Gotowy pakiet o tym, że codzienne fazy Księżyca nie wynikają z cienia Ziemi,
 tylko z geometrii układu Słońce-Ziemia-Księżyc i naszego kąta patrzenia.

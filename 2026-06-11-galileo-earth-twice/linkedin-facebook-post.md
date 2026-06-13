@@ -1,24 +1,19 @@
 # LinkedIn
 
-Słuchajcie, ja naprawdę uwielbiam tę historię.
+Galileo minął Ziemię 8 grudnia 1990 roku. Przelot zmienił prędkość i kierunek
+sondy, ale nie wystarczył, żeby dotrzeć do Jowisza.
 
-Galileo spotkał Ziemię 8 grudnia 1990 roku. Nasza planeta zmieniła prędkość
-i kierunek sondy, ale to jeszcze nie wystarczyło, żeby dolecieć do Jowisza.
+Sonda okrążyła więc Słońce i 8 grudnia 1992 roku wróciła do tej samej planety
+po kolejną asystę grawitacyjną. Na schemacie łatwo odczytać „Ziemię 1990”
+i „Ziemię 1992” jak dwa różne obiekty. To jednak jedna planeta pokazana
+w dwóch momentach sześcioletniej podróży.
 
-Więc Galileo zrobił wielką pętlę wokół Słońca. Przez dwa lata.
+W Kosmicznym Laboratorium dziecko przesuwa całą misję palcem: od Wenus, przez
+dwa przeloty obok Ziemi, aż do Jowisza. Zmienia się data, prędkość i dalszy
+tor sondy.
 
-I 8 grudnia 1992 wrócił do tej samej Ziemi po drugie grawitacyjne podanie.
-Dopiero ono pomogło ustawić dalszą drogę ku Jowiszowi.
-
-Właśnie dlatego zbudowałem w Kosmicznym Laboratorium oś czasu całej misji.
-Dziecko przesuwa sześć lat własnym palcem i widzi jedną Ziemię, dwa spotkania
-i tor, który zmienia się krok po kroku.
-
-Na schemacie „Ziemia 1990” i „Ziemia 1992” łatwo wyglądają jak dwie planety.
-A przecież to jedna planeta i jedna niesamowita podróż.
-
-To jest ten moment, który mnie totalnie jara: kiedy data przestaje być datą,
-a staje się ruchem, który można naprawdę zrozumieć.
+Lubię ten ekran, bo porządkuje coś, co w samych datach wygląda znacznie mniej
+czytelnie. Dwa spotkania z tą samą planetą stają się jednym ciągiem ruchu.
 
 Źródło naukowe: NASA.
 
@@ -26,18 +21,14 @@ a staje się ruchem, który można naprawdę zrozumieć.
 
 # Facebook
 
-Hej, zobaczcie to: Galileo odwiedził tę samą Ziemię dwa razy.
-Dokładnie w odstępie dwóch lat.
+Galileo odwiedził okolice Ziemi dwa razy, dokładnie w odstępie dwóch lat.
 
-Pierwszy przelot wydarzył się 8 grudnia 1990. Ziemia zmieniła prędkość
-i kierunek sondy, ale do Jowisza nadal było za daleko. Galileo zatoczył więc
-wielką pętlę wokół Słońca i wrócił 8 grudnia 1992 po drugie grawitacyjne
-podanie.
+Pierwszy przelot odbył się 8 grudnia 1990 roku. Zmienił prędkość i kierunek
+sondy, ale do Jowisza nadal prowadziła długa droga. Galileo okrążył Słońce
+i wrócił 8 grudnia 1992 roku po kolejną asystę grawitacyjną.
 
-Zbudowałem tę historię tak, żeby dziecko mogło przesunąć całą misję palcem:
-Wenus, pierwsze spotkanie z Ziemią, dwuletnia pętla, powrót i dalsza droga.
-
-Uwielbiam, kiedy z dwóch dat robi się prawdziwa podróż. I kiedy nagle widać,
-że „Ziemia 1990” i „Ziemia 1992” to nie dwie planety. To my. Dwa razy.
+W Kosmicznym Laboratorium dziecko może przesunąć całą misję palcem i zobaczyć,
+że „Ziemia 1990” oraz „Ziemia 1992” to ta sama planeta w dwóch różnych
+momentach podróży.
 
 Źródło naukowe: NASA.

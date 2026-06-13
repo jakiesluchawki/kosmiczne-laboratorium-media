@@ -11,5 +11,5 @@ i Neptuna.
 - `manifest.json` - źródła i parametry publikacji.
 
 Pakiet wykorzystuje malarską mapę planet oraz prawdziwy ekran misji z
-Kosmicznego Laboratorium. Tekst ma osobisty głos Mieszka i zachowuje obraz
-pełnokadrowy.
+Kosmicznego Laboratorium. Tekst wyjaśnia mechanizm kolejnych asyst
+grawitacyjnych i zachowuje obraz pełnokadrowy.

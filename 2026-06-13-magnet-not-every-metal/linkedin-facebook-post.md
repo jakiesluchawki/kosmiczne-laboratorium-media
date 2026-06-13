@@ -1,54 +1,39 @@
 # LinkedIn
 
-Wiecie, co mnie w magnesach najbardziej bawi?
+Przy pracy nad laboratorium magnesów wróciło do mnie zdanie, które wielu z nas
+słyszało w dzieciństwie: „magnes przyciąga metal”.
 
-To, że słowo „metal” brzmi jak odpowiedź, a jest dopiero początkiem pytania.
+To wygodny skrót, ale zbyt szeroki. Aluminium, srebro i złoto są metalami,
+a zwykły magnes ich nie przyciągnie. Silnie reagują między innymi żelazo,
+nikiel, kobalt i niektóre stopy, w tym wiele rodzajów stali.
 
-Przez lata mówimy dzieciom, że magnes przyciąga metal. Tylko że National High
-Magnetic Field Laboratory przypomina coś ważniejszego: silnie reagują głównie
-ferromagnetyki, a złoto, srebro czy aluminium do zwykłego magnesu nie lecą.
+Dlatego w aplikacji nie podaję dziecku gotowej reguły. Najpierw wybiera
+przedmiot, a potem sprawdza go w dwóch warunkach: z magnesem i z grawitacją.
+Stalowy spinacz reaguje na oba oddziaływania. Gumowa kaczka spada pod wpływem
+grawitacji, ale magnes jej nie porusza.
 
-I nagle zwykły spinacz robi się ciekawszy niż gotowa definicja.
+Ten ekran dobrze pokazuje różnicę: grawitacja działa na każdy przedmiot z masą,
+a magnes tylko na wybrane materiały. Lubię ten eksperyment, bo jedno zbyt
+szerokie zdanie zamienia w pytanie, które można naprawdę sprawdzić.
 
-W Kosmicznym Laboratorium zbudowałem ekran, na którym dziecko najpierw
-obstawia, potem przełącza magnes i grawitację, a na końcu widzi różnicę
-ruchem. Magnes wybiera. Grawitacja nie.
-
-To jest dokładnie ten rodzaj nauki, który lubię najbardziej. Nie „zapamiętaj
-nazwę”, tylko „sprawdź, co się naprawdę stało”.
-
-Do tego dochodzi drugie zaskoczenie: Ziemia ma pole magnetyczne, ale USGS
-wyjaśnia, że nie ma w środku jednego wielkiego magnesu. Główną rolę gra ruch
-przewodzącego ciekłego żelaza w jądrze zewnętrznym.
-
-Im dłużej siedzę nad tą misją, tym bardziej lubię lekcje, które rozplątują
-skróty myślowe zamiast je wzmacniać. I serio, mam ochotę pokazywać ten ekran
-każdemu, kto kiedyś usłyszał zbyt proste „magnes łapie metal”.
-
-Źródła naukowe: National MagLab i USGS.
+Źródło naukowe: National High Magnetic Field Laboratory.
 
 #KosmiczneLaboratorium #nauka #edtech
 
 # Facebook
 
-Czy każdy metal naprawdę przykleja się do magnesu?
+Czy magnes przyciąga każdy metal? Nie.
 
-Nie. I właśnie to bardzo lubię w tej misji.
+Aluminium, srebro i złoto są metalami, ale zwykły magnes ich nie przyciągnie.
+Silnie reagują między innymi żelazo, nikiel, kobalt i niektóre stopy, w tym
+wiele rodzajów stali.
 
-Zwykły magnes mocno reaguje tylko z wybranymi materiałami, przede wszystkim z
-ferromagnetykami. National MagLab podaje prosty przykład: złoto, srebro i
-aluminium są metalami, ale nie lecą do zwykłego magnesu tak jak stalowy
-spinacz.
+W Kosmicznym Laboratorium dziecko może sprawdzić tę różnicę na konkretnych
+przedmiotach. Najpierw wybiera obiekt, potem porównuje działanie magnesu
+i grawitacji. Stalowy spinacz reaguje na oba oddziaływania. Gumowa kaczka
+spada pod wpływem grawitacji, ale nie porusza się w stronę magnesu.
 
-W Kosmicznym Laboratorium dziecko nie dostaje tego jako suchego zdania. Najpierw
-zgaduje, potem przełącza magnes i grawitację, porównuje przedmioty i widzi, że
-grawitacja działa na każdą masę, a magnes jest wybredny.
+To prosty eksperyment, który pokazuje dwie rzeczy naraz: grawitacja działa na
+każdy przedmiot z masą, a magnes tylko na wybrane materiały.
 
-Na końcu dochodzi jeszcze jedna piękna rzecz: Ziemia ma pole magnetyczne, ale
-jak wyjaśnia USGS, nie ma w środku jednego wielkiego magnesu. Pole powstaje
-głównie dzięki ruchowi przewodzącego ciekłego żelaza w jądrze zewnętrznym.
-
-Lubię takie ekrany, bo zamiast wbijać odpowiedź do głowy, pozwalają dziecku
-samemu zauważyć różnicę.
-
-Źródła naukowe: National MagLab i USGS.
+Źródło naukowe: National High Magnetic Field Laboratory.

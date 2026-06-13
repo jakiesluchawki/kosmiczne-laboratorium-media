@@ -14,9 +14,9 @@ bliżej Słońca.
 
 ## Kierunek
 
-To najbardziej osobista i podekscytowana paczka w serii. Narracja zaczyna się
-od nocnego momentu pracy Mieszka i prawdziwej radości z przycisku, który
-pozwala dziecku „wyłączyć pory roku”.
+Sekwencja zaczyna się od faktu, że Ziemia jest najbliżej Słońca na początku
+stycznia, a następnie pokazuje rolę nachylenia osi. Prawdziwy ekran aplikacji
+pozwala wyłączyć nachylenie i porównać wynik.
 
 Grafiki wykorzystują wyłącznie malarskie ilustracje i prawdziwy ekran
 Kosmicznego Laboratorium. Obraz pozostaje pełnokadrowy; czytelność tekstu

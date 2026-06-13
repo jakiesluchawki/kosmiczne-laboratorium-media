@@ -28,9 +28,7 @@
     "productScreenshot": "source/magnet-app-screen.png",
     "scienceSources": [
       "https://nationalmaglab.org/magnet-academy/try-this-at-home/magnetic-hopping/",
-      "https://nationalmaglab.org/magnet-academy/plan-a-lesson/magnetizing-and-unmagnetizing/",
-      "https://www.usgs.gov/faqs/how-does-earths-core-generate-a-magnetic-field",
-      "https://www.usgs.gov/faqs/earth-a-magnet"
+      "https://nationalmaglab.org/magnet-academy/plan-a-lesson/magnetizing-and-unmagnetizing/"
     ],
     "composition": "Deterministic AppKit render from social/source/render-magnet-pack.swift; native application art plus a true magnet laboratory screenshot captured from the running localhost preview"
   }
