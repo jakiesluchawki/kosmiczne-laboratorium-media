@@ -1,0 +1,26 @@
+{
+  "status": "ready",
+  "updated": "2026-06-13",
+  "title": "Kosmiczne Laboratorium — pakiet współpracy",
+  "audiences": [
+    "centra nauki i muzea",
+    "biblioteki i domy kultury",
+    "fundacje i organizacje społeczne",
+    "wydawcy, redakcje i partnerzy edukacyjni"
+  ],
+  "formats": [
+    "pdf",
+    "docx",
+    "md",
+    "png",
+    "zip"
+  ],
+  "contact": "mieszko@mahboob.pl",
+  "app_url": "https://jakiesluchawki.github.io/kosmiczne-laboratorium/",
+  "product_sources": [
+    "docs/agent/SCIENCE_GAMEPLAY.md",
+    "docs/agent/PRODUCT_CONTENT.md",
+    "docs/agent/VISUAL_UX.md"
+  ],
+  "note": "Pakiet nie sugeruje istniejącego partnerstwa, patronatu ani prawa do użycia marki odbiorcy."
+}
