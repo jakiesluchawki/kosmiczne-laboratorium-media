@@ -1,0 +1,33 @@
+{
+  "id": "2026-06-13-same-lab-calmer",
+  "status": "ready",
+  "topic": "The accessibility preset changes presentation while preserving the complete experiment and learning flow",
+  "language": "pl",
+  "formats": {
+    "instagramStories": {
+      "count": 5,
+      "width": 1080,
+      "height": 1920
+    },
+    "facebookLinkedin": {
+      "count": 2,
+      "width": 1200,
+      "height": 1500
+    }
+  },
+  "provenance": {
+    "illustrations": [
+      "next-app/public/art/gouache-discovery-treasure-book.png",
+      "next-app/public/art/painted-moon.png"
+    ],
+    "productScreenshots": [
+      "source/accessibility-settings-1440x900.png",
+      "source/accessibility-preset-1440x900.png"
+    ],
+    "productSources": [
+      "next-app/src/App.jsx",
+      "docs/agent/PRODUCT_CONTENT.md"
+    ],
+    "composition": "Deterministic AppKit render from social/source/render-human-product-packs.swift; native application art and true localhost settings screens captured with social/source/capture-local-app.swift"
+  }
+}
