@@ -1,0 +1,33 @@
+{
+  "id": "2026-06-13-two-moves-one-signal",
+  "status": "ready",
+  "topic": "The cooperative orbit mission requires two independent correct moves before one shared signal advances the team",
+  "language": "pl",
+  "formats": {
+    "instagramStories": {
+      "count": 5,
+      "width": 1080,
+      "height": 1920
+    },
+    "facebookLinkedin": {
+      "count": 2,
+      "width": 1200,
+      "height": 1500
+    }
+  },
+  "provenance": {
+    "illustrations": [
+      "next-app/public/art/gouache-orbit-rescue.png",
+      "next-app/public/art/painted-earth.png",
+      "next-app/public/art/painted-projectile.png"
+    ],
+    "productScreenshot": "source/crew-mission-1440x900.png",
+    "productSources": [
+      "next-app/src/RaceGame.jsx",
+      "next-app/src/crewMission.js",
+      "docs/agent/PRODUCT_CONTENT.md",
+      "docs/agent/VISUAL_UX.md"
+    ],
+    "composition": "Deterministic AppKit render from social/source/render-human-product-packs.swift; native application art and a true localhost crew mission screen captured with social/source/capture-local-app.swift"
+  }
+}
