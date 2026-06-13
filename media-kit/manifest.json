@@ -1,0 +1,14 @@
+{
+  "status": "ready",
+  "updated": "2026-06-13",
+  "title": "Kosmiczne Laboratorium — pakiet medialny",
+  "formats": [
+    "pdf",
+    "docx",
+    "md",
+    "png",
+    "zip"
+  ],
+  "contact": "mieszko@mahboob.pl",
+  "app_url": "https://jakiesluchawki.github.io/kosmiczne-laboratorium/"
+}

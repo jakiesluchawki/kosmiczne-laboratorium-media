@@ -5,18 +5,22 @@
     <meta name="viewport" content="width=device-width, initial-scale=1" />
     <meta
       name="description"
-      content="Materiały do pobrania dla komunikacji Kosmicznego Laboratorium."
+      content="Techniczny katalog materiałów do pobrania dla Kosmicznego Laboratorium."
     />
-    <title>Kosmiczne Laboratorium - materiały</title>
+    <title>Kosmiczne Laboratorium / pliki</title>
     <style>
       :root {
-        color-scheme: dark;
-        --ink: #071126;
-        --ink-soft: #11183b;
-        --cream: #fff0bd;
-        --mint: #9fd1bd;
-        --gold: #e2c45d;
-        --white: #fffdf7;
+        color-scheme: light;
+        --bg: #f7f8fa;
+        --paper: #ffffff;
+        --ink: #172033;
+        --muted: #5f6878;
+        --line: #d8dde6;
+        --line-strong: #aeb7c5;
+        --accent: #174f88;
+        --accent-soft: #e8eef5;
+        --ready: #17643a;
+        --ready-soft: #e8f5ed;
       }
 
       * {
@@ -25,160 +29,327 @@
 
       body {
         margin: 0;
-        min-height: 100vh;
-        background:
-          radial-gradient(circle at 78% 12%, rgba(95, 128, 173, 0.2), transparent 24rem),
-          linear-gradient(180deg, rgba(7, 17, 38, 0.3), var(--ink)),
-          url("2026-06-13-magnet-not-every-metal/preview.png") center 52% / cover fixed;
-        color: var(--white);
-        font-family: "Avenir Next", Avenir, system-ui, sans-serif;
-      }
-
-      body::before {
-        position: fixed;
-        inset: 0;
-        z-index: -1;
-        content: "";
-        background: rgba(7, 17, 38, 0.9);
-        backdrop-filter: blur(18px);
+        background: var(--bg);
+        color: var(--ink);
+        font-family:
+          Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont,
+          "Segoe UI", sans-serif;
+        font-size: 15px;
+        line-height: 1.45;
       }
 
       main {
-        width: min(1180px, calc(100% - 40px));
+        width: min(1180px, calc(100% - 32px));
         margin: 0 auto;
-        padding: 88px 0 120px;
+        padding: 40px 0 72px;
       }
 
       header {
-        max-width: 780px;
-        margin-bottom: 64px;
+        display: grid;
+        grid-template-columns: minmax(0, 1fr) auto;
+        gap: 24px;
+        align-items: end;
+        padding-bottom: 20px;
+        border-bottom: 1px solid var(--line-strong);
       }
 
-      .eyebrow,
-      .meta {
-        margin: 0 0 18px;
-        color: var(--mint);
-        font-size: 0.82rem;
-        font-weight: 700;
-        letter-spacing: 0.22em;
-        text-transform: uppercase;
+      .path {
+        margin: 0 0 5px;
+        color: var(--muted);
+        font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, monospace;
+        font-size: 12px;
       }
 
       h1 {
         margin: 0;
-        color: var(--cream);
-        font-size: clamp(2.8rem, 7vw, 6.4rem);
-        line-height: 0.98;
-        letter-spacing: -0.045em;
+        font-size: clamp(25px, 4vw, 38px);
+        line-height: 1.1;
+        letter-spacing: -0.025em;
       }
 
-      .intro {
-        max-width: 680px;
-        margin: 28px 0 0;
-        color: rgba(255, 253, 247, 0.78);
-        font-size: 1.2rem;
-        line-height: 1.65;
-      }
-
-      .packs {
-        display: grid;
-        gap: 32px;
-      }
-
-      article {
-        overflow: hidden;
-        display: grid;
-        grid-template-columns: minmax(280px, 0.9fr) minmax(320px, 1.1fr);
-        border: 1px solid rgba(255, 240, 189, 0.22);
-        border-radius: 28px;
-        background: rgba(7, 17, 38, 0.82);
-        box-shadow: 0 30px 80px rgba(0, 0, 0, 0.3);
-      }
-
-      .preview {
-        width: 100%;
-        height: 100%;
-        min-height: 390px;
-        object-fit: cover;
-      }
-
-      .copy {
-        padding: clamp(30px, 5vw, 58px);
-      }
-
-      .meta {
-        color: var(--gold);
-        font-size: 0.76rem;
-        letter-spacing: 0.16em;
-      }
-
-      h2 {
+      .header-meta {
         margin: 0;
-        color: var(--cream);
-        font-size: clamp(2rem, 4vw, 3.5rem);
-        line-height: 1.05;
-        letter-spacing: -0.035em;
+        color: var(--muted);
+        font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, monospace;
+        font-size: 12px;
+        text-align: right;
       }
 
-      article p {
-        margin: 22px 0 0;
-        color: rgba(255, 253, 247, 0.76);
-        font-size: 1.02rem;
-        line-height: 1.65;
+      .header-meta a {
+        color: var(--accent);
       }
 
-      .actions {
-        display: flex;
-        flex-wrap: wrap;
-        gap: 12px;
+      section {
         margin-top: 32px;
       }
 
-      a {
+      h2 {
+        margin: 0 0 12px;
+        font-size: 17px;
+        letter-spacing: -0.01em;
+      }
+
+      .summary {
+        margin: 8px 0 0;
+        color: var(--muted);
+      }
+
+      .download-list {
+        overflow: hidden;
+        border: 1px solid var(--line-strong);
+        background: var(--paper);
+      }
+
+      .download-row {
+        display: grid;
+        grid-template-columns: minmax(210px, 1.15fr) minmax(300px, 1.8fr) 90px 118px;
+        gap: 18px;
+        align-items: center;
+        padding: 16px;
+      }
+
+      .download-row + .download-row {
+        border-top: 1px solid var(--line);
+      }
+
+      .download-title {
+        margin: 0;
+        font-size: 15px;
+        font-weight: 750;
+      }
+
+      .download-description {
+        margin: 3px 0 0;
+        color: var(--muted);
+        font-size: 13px;
+      }
+
+      .file-meta {
+        color: var(--muted);
+        font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, monospace;
+        font-size: 12px;
+      }
+
+      .button {
         display: inline-flex;
-        min-height: 48px;
+        min-height: 38px;
         align-items: center;
         justify-content: center;
-        border: 1px solid rgba(255, 240, 189, 0.28);
-        border-radius: 999px;
-        padding: 0 20px;
-        color: var(--white);
+        border: 1px solid var(--accent);
+        background: var(--accent);
+        color: #ffffff;
+        font-size: 13px;
         font-weight: 700;
         text-decoration: none;
       }
 
-      a.primary {
-        border-color: var(--cream);
-        background: var(--cream);
-        color: var(--ink-soft);
+      .button:hover,
+      .button:focus-visible {
+        background: #0f3c69;
       }
 
-      a:hover {
-        border-color: var(--mint);
+      .secondary-links {
+        display: flex;
+        flex-wrap: wrap;
+        gap: 9px;
+        margin-top: 7px;
+      }
+
+      .secondary-links a,
+      td a,
+      footer a {
+        color: var(--accent);
+        text-underline-offset: 2px;
+      }
+
+      .secondary-links a {
+        font-size: 12px;
+      }
+
+      .table-wrap {
+        overflow-x: auto;
+        border: 1px solid var(--line-strong);
+        background: var(--paper);
+      }
+
+      table {
+        width: 100%;
+        min-width: 930px;
+        border-collapse: collapse;
+      }
+
+      th,
+      td {
+        padding: 11px 12px;
+        border-bottom: 1px solid var(--line);
+        text-align: left;
+        vertical-align: top;
+      }
+
+      th {
+        background: var(--accent-soft);
+        color: #25415f;
+        font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, monospace;
+        font-size: 11px;
+        font-weight: 700;
+        letter-spacing: 0.04em;
+        text-transform: uppercase;
+      }
+
+      tr:last-child td {
+        border-bottom: 0;
+      }
+
+      td {
+        font-size: 13px;
+      }
+
+      td:first-child,
+      td:nth-child(4),
+      td:nth-child(5) {
+        white-space: nowrap;
+        font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, monospace;
+        font-size: 12px;
+      }
+
+      .status {
+        display: inline-block;
+        margin-left: 7px;
+        border: 1px solid #b7dcc6;
+        background: var(--ready-soft);
+        padding: 1px 5px;
+        color: var(--ready);
+        font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, monospace;
+        font-size: 10px;
+        font-weight: 700;
+        text-transform: uppercase;
       }
 
       footer {
-        margin-top: 54px;
-        color: rgba(255, 253, 247, 0.55);
-        font-size: 0.9rem;
-        line-height: 1.6;
+        margin-top: 30px;
+        padding-top: 18px;
+        border-top: 1px solid var(--line);
+        color: var(--muted);
+        font-size: 12px;
       }
 
-      @media (max-width: 760px) {
+      footer p {
+        margin: 4px 0;
+      }
+
+      @media (max-width: 780px) {
         main {
-          width: min(100% - 24px, 620px);
-          padding-top: 52px;
+          width: min(100% - 24px, 680px);
+          padding-top: 26px;
         }
 
-        article {
+        header {
+          grid-template-columns: 1fr;
+          gap: 10px;
+        }
+
+        .header-meta {
+          text-align: left;
+        }
+
+        .download-row {
+          grid-template-columns: 1fr auto;
+          gap: 10px 14px;
+        }
+
+        .download-row > :nth-child(2) {
+          grid-column: 1 / -1;
+          grid-row: 2;
+        }
+
+        .download-row > :nth-child(3) {
+          grid-column: 1;
+          grid-row: 3;
+        }
+
+        .download-row > :nth-child(4) {
+          grid-column: 2;
+          grid-row: 1 / 4;
+          align-self: center;
+        }
+
+        .table-wrap {
+          overflow: visible;
+        }
+
+        table {
+          min-width: 0;
+        }
+
+        thead {
+          display: none;
+        }
+
+        tbody,
+        tr,
+        td {
+          display: block;
+          width: 100%;
+        }
+
+        tr {
+          padding: 12px 14px;
+          border-bottom: 1px solid var(--line);
+        }
+
+        tr:last-child {
+          border-bottom: 0;
+        }
+
+        td {
+          border: 0;
+          padding: 2px 0;
+          white-space: normal !important;
+        }
+
+        td:nth-child(2) {
+          font-size: 14px;
+          font-weight: 650;
+        }
+
+        td:nth-child(3) {
+          display: none;
+        }
+
+        td:nth-child(4),
+        td:nth-child(5) {
+          display: inline-block;
+          width: auto;
+          margin: 4px 10px 0 0;
+          color: var(--muted);
+        }
+
+        td:nth-child(4)::before {
+          content: "format: ";
+        }
+
+        td:nth-child(5)::before {
+          content: "rozmiar: ";
+        }
+
+        td:nth-child(6) {
+          margin-top: 5px;
+        }
+      }
+
+      @media (max-width: 520px) {
+        .download-row {
           grid-template-columns: 1fr;
         }
 
-        .preview {
-          min-height: 260px;
+        .download-row > :nth-child(2),
+        .download-row > :nth-child(3),
+        .download-row > :nth-child(4) {
+          grid-column: 1;
+          grid-row: auto;
         }
 
-        .actions a {
+        .button {
           width: 100%;
         }
       }
@@ -187,195 +358,199 @@
   <body>
     <main>
       <header>
-        <p class="eyebrow">Kosmiczne Laboratorium</p>
-        <h1>Materiały do pobrania</h1>
-        <p class="intro">
-          Tu wrzucam gotowe Stories, obrazy do postów i teksty. Wszystko
-          powstaje z malarskiego świata działającej aplikacji i można pobrać
-          bez logowania, z dowolnego komputera.
+        <div>
+          <p class="path">/kosmiczne-laboratorium-media/</p>
+          <h1>Pliki do pobrania</h1>
+          <p class="summary">Bez logowania. Linki prowadzą bezpośrednio do plików.</p>
+        </div>
+        <p class="header-meta">
+          aktualizacja: 2026-06-13<br />
+          status: 8 zestawów gotowych<br />
+          <a href="https://jakiesluchawki.github.io/kosmiczne-laboratorium/">
+            otwórz aplikację
+          </a>
         </p>
       </header>
 
-      <section class="packs" aria-label="Pakiety komunikacji">
-        <article>
-          <img
-            class="preview"
-            src="2026-06-13-magnet-not-every-metal/preview.png"
-            alt="Podgląd zestawu o tym, że magnes nie przyciąga wszystkiego, co metalowe"
-          />
-          <div class="copy">
-            <p class="meta">Gotowe · ciekawostka naukowa</p>
-            <h2>Czy magnes przyciąga każdy metal?</h2>
-            <p>
-              Pięć Stories, dwa obrazy do postów i proste porównanie:
-              grawitacja działa na każdy przedmiot z masą, a magnes tylko na
-              wybrane materiały.
-            </p>
-            <div class="actions">
-              <a
-                class="primary"
-                href="2026-06-13-magnet-not-every-metal/magnet-not-every-metal.zip"
-                download
-              >
-                Pobierz pełną paczkę ZIP
-              </a>
-              <a href="2026-06-13-magnet-not-every-metal/linkedin-facebook-post.md">
-                Otwórz tekst posta
-              </a>
+      <section aria-labelledby="main-downloads">
+        <h2 id="main-downloads">Pobrania główne</h2>
+        <div class="download-list">
+          <article class="download-row">
+            <div>
+              <p class="download-title">Wszystkie materiały social</p>
+              <p class="download-description">6 paczek · 30 Stories · 12 obrazów do postów · teksty</p>
             </div>
-          </div>
-        </article>
-
-        <article>
-          <img
-            class="preview"
-            src="2026-06-12-seasons-not-distance/preview.png"
-            alt="Podgląd zestawu o prawdziwej przyczynie pór roku"
-          />
-          <div class="copy">
-            <p class="meta">Gotowe · ciekawostka naukowa</p>
-            <h2>To nie odległość. To nachylenie osi.</h2>
-            <p>
-              Pięć Stories, dwa obrazy do postów i eksperyment pokazujący,
-              dlaczego pory roku wynikają głównie z nachylenia osi Ziemi,
-              a nie z odległości od Słońca.
-            </p>
-            <div class="actions">
-              <a
-                class="primary"
-                href="2026-06-12-seasons-not-distance/seasons-not-distance.zip"
-                download
-              >
-                Pobierz pełną paczkę ZIP
-              </a>
-              <a href="2026-06-12-seasons-not-distance/linkedin-facebook-post.md">
-                Otwórz tekst posta
-              </a>
+            <div>
+              <p class="download-description">
+                Jeden ZIP. Obrazy JPG w jakości publikacyjnej. Dzienne paczki PNG są niżej.
+              </p>
+              <div class="secondary-links">
+                <a href="downloads/manifest.json">manifest</a>
+              </div>
             </div>
-          </div>
-        </article>
+            <span class="file-meta">ZIP · 18 MB</span>
+            <a
+              class="button"
+              href="downloads/kosmiczne-laboratorium-social-wszystko-jpg.zip"
+              download
+            >
+              Pobierz
+            </a>
+          </article>
 
-        <article>
-          <img
-            class="preview"
-            src="2026-06-12-moon-phases-not-earth-shadow/preview.png"
-            alt="Podgląd zestawu o prawdziwej przyczynie faz Księżyca"
-          />
-          <div class="copy">
-            <p class="meta">Gotowe · ciekawostka naukowa</p>
-            <h2>To nie cień Ziemi robi codzienne fazy.</h2>
-            <p>
-              Pięć Stories, dwa obrazy do postów i osobne copy o tym, że
-              Słońce zawsze oświetla połowę Księżyca, a zmienia się nasz kąt
-              patrzenia.
-            </p>
-            <div class="actions">
-              <a
-                class="primary"
-                href="2026-06-12-moon-phases-not-earth-shadow/moon-phases-not-earth-shadow.zip"
-                download
-              >
-                Pobierz pełną paczkę ZIP
-              </a>
-              <a href="2026-06-12-moon-phases-not-earth-shadow/linkedin-facebook-post.md">
-                Otwórz tekst posta
-              </a>
+          <article class="download-row">
+            <div>
+              <p class="download-title">Ogólny pakiet medialny</p>
+              <p class="download-description">Opis aplikacji · notka prasowa · FAQ · cytat · 7 obrazów</p>
             </div>
-          </div>
-        </article>
-
-        <article>
-          <img
-            class="preview"
-            src="2026-06-11-apollo13-not-just-gravity/preview.png"
-            alt="Podgląd zestawu o prawdziwej drodze powrotnej Apollo 13"
-          />
-          <div class="copy">
-            <p class="meta">Gotowe · ciekawostka naukowa</p>
-            <h2>Nie uratowała ich sama grawitacja.</h2>
-            <p>
-              Ciepła opowieść o 34 sekundach pracy silnika Aquarius,
-              trajektorii swobodnego powrotu i Księżycu, który zakrzywił drogę
-              Apollo 13 ku Ziemi.
-            </p>
-            <div class="actions">
-              <a
-                class="primary"
-                href="2026-06-11-apollo13-not-just-gravity/apollo13-not-just-gravity.zip"
-                download
-              >
-                Pobierz pełną paczkę ZIP
-              </a>
-              <a href="2026-06-11-apollo13-not-just-gravity/linkedin-facebook-post.md">
-                Otwórz tekst posta
-              </a>
+            <div>
+              <p class="download-description">Gotowy dokument PDF, wersja edytowalna i pliki źródłowe.</p>
+              <div class="secondary-links">
+                <a href="media-kit/kosmiczne-laboratorium-pakiet-medialny.pdf">PDF</a>
+                <a href="media-kit/kosmiczne-laboratorium-pakiet-medialny.docx">DOCX</a>
+                <a href="media-kit/informacje-prasowe.md">tekst</a>
+                <a href="media-kit/manifest.json">manifest</a>
+              </div>
             </div>
-          </div>
-        </article>
+            <span class="file-meta">ZIP · 3.9 MB</span>
+            <a
+              class="button"
+              href="media-kit/kosmiczne-laboratorium-pakiet-medialny.zip"
+              download
+            >
+              Pobierz
+            </a>
+          </article>
 
-        <article>
-          <img
-            class="preview"
-            src="2026-06-11-voyager-grand-tour/preview.png"
-            alt="Podgląd zestawu o Wielkiej Podróży Voyagera 2"
-          />
-          <div class="copy">
-            <p class="meta">Gotowe · ciekawostka naukowa</p>
-            <h2>Jedna sonda. Cztery planety.</h2>
-            <p>
-              Voyager 2, rzadkie ustawienie planet i podróż przez Jowisza,
-              Saturna, Urana i Neptuna. Pięć Stories, dwa obrazy do postów
-              i osobne teksty dla LinkedIna oraz Facebooka.
-            </p>
-            <div class="actions">
-              <a
-                class="primary"
-                href="2026-06-11-voyager-grand-tour/voyager-grand-tour.zip"
-                download
-              >
-                Pobierz pełną paczkę ZIP
-              </a>
-              <a href="2026-06-11-voyager-grand-tour/linkedin-facebook-post.md">
-                Otwórz tekst posta
-              </a>
+          <article class="download-row">
+            <div>
+              <p class="download-title">Pitch dla Centrum Nauki Kopernik</p>
+              <p class="download-description">Propozycja rozmowy · pilotaż 4–6 tygodni · gotowy e-mail</p>
             </div>
-          </div>
-        </article>
-
-        <article>
-          <img
-            class="preview"
-            src="2026-06-11-galileo-earth-twice/preview.png"
-            alt="Podgląd zestawu o dwóch przelotach Galileo obok Ziemi"
-          />
-          <div class="copy">
-            <p class="meta">Gotowe · ciekawostka naukowa</p>
-            <h2>Ta sama Ziemia. Dwa spotkania.</h2>
-            <p>
-              Galileo wrócił do Ziemi dokładnie dwa lata później. Pięć Stories,
-              dwa obrazy LinkedIn/Facebook i osobiste copy o drodze, którą
-              dziecko może przewinąć własnym palcem.
-            </p>
-            <div class="actions">
-              <a
-                class="primary"
-                href="2026-06-11-galileo-earth-twice/galileo-earth-twice.zip"
-                download
-              >
-                Pobierz pełną paczkę ZIP
-              </a>
-              <a href="2026-06-11-galileo-earth-twice/linkedin-facebook-post.md">
-                Otwórz tekst posta
-              </a>
+            <div>
+              <p class="download-description">
+                Dokument oparty na publicznej misji CNK, działaniach B+R i programie ESERO.
+              </p>
+              <div class="secondary-links">
+                <a href="cnk-pitch/kosmiczne-laboratorium-propozycja-dla-cnk.pdf">PDF</a>
+                <a href="cnk-pitch/kosmiczne-laboratorium-propozycja-dla-cnk.docx">DOCX</a>
+                <a href="cnk-pitch/email-do-cnk.md">e-mail</a>
+                <a href="cnk-pitch/manifest.json">manifest</a>
+              </div>
             </div>
-          </div>
-        </article>
+            <span class="file-meta">ZIP · 3.4 MB</span>
+            <a
+              class="button"
+              href="cnk-pitch/kosmiczne-laboratorium-propozycja-dla-cnk.zip"
+              download
+            >
+              Pobierz
+            </a>
+          </article>
+        </div>
+      </section>
 
+      <section aria-labelledby="daily-packs">
+        <h2 id="daily-packs">Paczki social / pełne PNG</h2>
+        <div class="table-wrap">
+          <table>
+            <thead>
+              <tr>
+                <th>Data</th>
+                <th>Temat</th>
+                <th>Zawartość</th>
+                <th>Format</th>
+                <th>Rozmiar</th>
+                <th>Pliki</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <td>2026-06-13</td>
+                <td>Czy magnes przyciąga każdy metal?<span class="status">ready</span></td>
+                <td>5 Stories · 2 posty · copy · źródła</td>
+                <td>PNG + MD</td>
+                <td>20 MB</td>
+                <td>
+                  <a href="2026-06-13-magnet-not-every-metal/magnet-not-every-metal.zip" download>ZIP</a>
+                  · <a href="2026-06-13-magnet-not-every-metal/linkedin-facebook-post.md">tekst</a>
+                  · <a href="2026-06-13-magnet-not-every-metal/preview.png">podgląd</a>
+                  · <a href="2026-06-13-magnet-not-every-metal/manifest.json">manifest</a>
+                </td>
+              </tr>
+              <tr>
+                <td>2026-06-12</td>
+                <td>To nachylenie osi, nie odległość<span class="status">ready</span></td>
+                <td>5 Stories · 2 posty · copy · źródła</td>
+                <td>PNG + MD</td>
+                <td>19 MB</td>
+                <td>
+                  <a href="2026-06-12-seasons-not-distance/seasons-not-distance.zip" download>ZIP</a>
+                  · <a href="2026-06-12-seasons-not-distance/linkedin-facebook-post.md">tekst</a>
+                  · <a href="2026-06-12-seasons-not-distance/preview.png">podgląd</a>
+                  · <a href="2026-06-12-seasons-not-distance/manifest.json">manifest</a>
+                </td>
+              </tr>
+              <tr>
+                <td>2026-06-12</td>
+                <td>Fazy Księżyca to nie cień Ziemi<span class="status">ready</span></td>
+                <td>5 Stories · 2 posty · copy · źródła</td>
+                <td>PNG + MD</td>
+                <td>18 MB</td>
+                <td>
+                  <a href="2026-06-12-moon-phases-not-earth-shadow/moon-phases-not-earth-shadow.zip" download>ZIP</a>
+                  · <a href="2026-06-12-moon-phases-not-earth-shadow/linkedin-facebook-post.md">tekst</a>
+                  · <a href="2026-06-12-moon-phases-not-earth-shadow/preview.png">podgląd</a>
+                  · <a href="2026-06-12-moon-phases-not-earth-shadow/manifest.json">manifest</a>
+                </td>
+              </tr>
+              <tr>
+                <td>2026-06-11</td>
+                <td>Apollo 13: nie tylko grawitacja<span class="status">ready</span></td>
+                <td>5 Stories · 2 posty · copy · źródła</td>
+                <td>PNG + MD</td>
+                <td>21 MB</td>
+                <td>
+                  <a href="2026-06-11-apollo13-not-just-gravity/apollo13-not-just-gravity.zip" download>ZIP</a>
+                  · <a href="2026-06-11-apollo13-not-just-gravity/linkedin-facebook-post.md">tekst</a>
+                  · <a href="2026-06-11-apollo13-not-just-gravity/preview.png">podgląd</a>
+                  · <a href="2026-06-11-apollo13-not-just-gravity/manifest.json">manifest</a>
+                </td>
+              </tr>
+              <tr>
+                <td>2026-06-11</td>
+                <td>Voyager 2: jedna sonda, cztery planety<span class="status">ready</span></td>
+                <td>5 Stories · 2 posty · copy · źródła</td>
+                <td>PNG + MD</td>
+                <td>22 MB</td>
+                <td>
+                  <a href="2026-06-11-voyager-grand-tour/voyager-grand-tour.zip" download>ZIP</a>
+                  · <a href="2026-06-11-voyager-grand-tour/linkedin-facebook-post.md">tekst</a>
+                  · <a href="2026-06-11-voyager-grand-tour/preview.png">podgląd</a>
+                  · <a href="2026-06-11-voyager-grand-tour/manifest.json">manifest</a>
+                </td>
+              </tr>
+              <tr>
+                <td>2026-06-11</td>
+                <td>Galileo: dwa spotkania z Ziemią<span class="status">ready</span></td>
+                <td>5 Stories · 2 posty · copy · źródła</td>
+                <td>PNG + MD</td>
+                <td>19 MB</td>
+                <td>
+                  <a href="2026-06-11-galileo-earth-twice/galileo-earth-twice.zip" download>ZIP</a>
+                  · <a href="2026-06-11-galileo-earth-twice/linkedin-facebook-post.md">tekst</a>
+                  · <a href="2026-06-11-galileo-earth-twice/preview.png">podgląd</a>
+                  · <a href="2026-06-11-galileo-earth-twice/manifest.json">manifest</a>
+                </td>
+              </tr>
+            </tbody>
+          </table>
+        </div>
       </section>
 
       <footer>
-        Materiały oznaczone jako gotowe można publikować. Źródła naukowe
-        i pochodzenie grafik są zapisane w manifestach każdego zestawu.
+        <p>Pliki oznaczone <strong>ready</strong> są gotowe do publikacji.</p>
+        <p>Dzienne ZIP-y zachowują PNG. Zbiorczy ZIP używa JPG 90, aby zmieścić całość w jednym pobraniu.</p>
       </footer>
     </main>
   </body>

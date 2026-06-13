@@ -1,0 +1,21 @@
+{
+  "status": "ready",
+  "updated": "2026-06-13",
+  "title": "Kosmiczne Laboratorium — propozycja dla Centrum Nauki Kopernik",
+  "formats": [
+    "pdf",
+    "docx",
+    "md",
+    "png",
+    "zip"
+  ],
+  "suggested_recipient": "wspolpraca@kopernik.org.pl",
+  "suggested_cc": "esero@kopernik.org.pl",
+  "sources": [
+    "https://www.kopernik.org.pl/o-koperniku/wizja-misja-i-strategia",
+    "https://www.kopernik.org.pl/badania-i-rozwoj",
+    "https://www.kopernik.org.pl/badania-i-rozwoj/jak-powstaja-innowacje-edukacyjne",
+    "https://www.kopernik.org.pl/esero",
+    "https://www.kopernik.org.pl/o-nas/kontakt"
+  ]
+}

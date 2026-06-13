@@ -1,10 +1,15 @@
-# Kosmiczne Laboratorium - materiały
+# Kosmiczne Laboratorium - pliki
 
-Publiczny katalog gotowych materiałów społecznościowych Kosmicznego
-Laboratorium.
+Publiczny katalog dystrybucyjny Kosmicznego Laboratorium.
 
 Strona pobrań:
 https://jakiesluchawki.github.io/kosmiczne-laboratorium-media/
 
-Repozytorium zawiera wyłącznie zamknięte paczki komunikacji. Kod aplikacji,
-materiały robocze i katalogi źródłowe nie są tutaj publikowane.
+Na stronie są dostępne bez logowania:
+
+- jeden ZIP ze wszystkimi gotowymi materiałami social;
+- ogólny pakiet medialny w PDF, DOCX i ZIP;
+- propozycja współpracy dla Centrum Nauki Kopernik;
+- pełne dzienne paczki PNG wraz z tekstami i manifestami.
+
+Repozytorium nie zawiera kodu aplikacji ani materiałów roboczych.

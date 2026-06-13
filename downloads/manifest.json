@@ -1,0 +1,18 @@
+{
+  "status": "ready",
+  "updated": "2026-06-13",
+  "title": "Kosmiczne Laboratorium — wszystkie materiały social",
+  "archive": "kosmiczne-laboratorium-social-wszystko-jpg.zip",
+  "image_format": "JPG",
+  "image_quality": 90,
+  "packages": 6,
+  "instagram_stories": 30,
+  "facebook_linkedin_images": 12,
+  "includes": [
+    "obrazy do publikacji",
+    "teksty postów",
+    "README",
+    "manifesty"
+  ],
+  "note": "Pełne dzienne paczki PNG pozostają dostępne osobno."
+}
