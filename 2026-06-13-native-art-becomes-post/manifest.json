@@ -1,0 +1,33 @@
+{
+  "id": "2026-06-13-native-art-becomes-post",
+  "status": "ready",
+  "topic": "The social visual language grows directly from the selected painterly application world and true product screens",
+  "language": "pl",
+  "formats": {
+    "instagramStories": {
+      "count": 5,
+      "width": 1080,
+      "height": 1920
+    },
+    "facebookLinkedin": {
+      "count": 2,
+      "width": 1200,
+      "height": 1500
+    }
+  },
+  "provenance": {
+    "illustrations": [
+      "next-app/public/art/gouache-mission-observatory.png",
+      "next-app/public/art/painted-earth.png"
+    ],
+    "productScreenshots": [
+      "source/native-lab-1440x900.png"
+    ],
+    "productSources": [
+      "next-app/design-concepts/malarskie-obserwatorium-mass-v2.png",
+      "docs/agent/VISUAL_UX.md",
+      "social/DESIGN_LANGUAGE.md"
+    ],
+    "composition": "Deterministic AppKit render from social/source/render-human-product-packs.swift; selected application art direction and a true localhost product screen captured with social/source/capture-local-app.swift"
+  }
+}

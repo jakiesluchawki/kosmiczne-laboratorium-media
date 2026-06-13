@@ -1,0 +1,37 @@
+{
+  "id": "2026-06-13-first-minute-to-hypothesis",
+  "status": "ready",
+  "topic": "The opening experience leads from curiosity and mission choice to the child's own prediction before the experiment begins",
+  "language": "pl",
+  "formats": {
+    "instagramStories": {
+      "count": 5,
+      "width": 1080,
+      "height": 1920
+    },
+    "facebookLinkedin": {
+      "count": 2,
+      "width": 1200,
+      "height": 1500
+    }
+  },
+  "provenance": {
+    "illustrations": [
+      "next-app/public/art/gouache-mission-observatory.png",
+      "next-app/public/art/painted-earth.png",
+      "next-app/public/art/painted-projectile.png"
+    ],
+    "productScreenshots": [
+      "source/intro-open-door-1440x900.png",
+      "source/mission-home-1440x900.png",
+      "source/first-prediction-1440x900.png"
+    ],
+    "productSources": [
+      "next-app/src/IntroExperience.jsx",
+      "next-app/src/introExperience.js",
+      "next-app/src/App.jsx",
+      "docs/agent/PRODUCT_CONTENT.md"
+    ],
+    "composition": "Deterministic AppKit render from social/source/render-human-product-packs.swift; native application art and true localhost opening states captured with social/source/capture-local-app.swift"
+  }
+}
