@@ -1,13 +1,13 @@
 {
   "status": "ready",
-  "updated": "2026-06-13",
+  "updated": "2026-06-14",
   "title": "Kosmiczne Laboratorium — wszystkie materiały social",
   "archive": "kosmiczne-laboratorium-social-wszystko-jpg.zip",
   "image_format": "JPG",
-  "image_quality": 80,
-  "packages": 27,
-  "instagram_stories": 135,
-  "facebook_linkedin_images": 54,
+  "image_quality": 78,
+  "packages": 30,
+  "instagram_stories": 150,
+  "facebook_linkedin_images": 60,
   "includes": [
     "obrazy do publikacji",
     "teksty postów",

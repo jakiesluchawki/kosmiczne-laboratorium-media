@@ -1,0 +1,39 @@
+{
+  "id": "2026-06-14-axis-keeps-direction",
+  "status": "ready",
+  "topic": "Earth's axial direction stays nearly parallel to itself during the orbit instead of turning to follow the Sun, producing seasonal changes in daylight and sunlight angle",
+  "language": "pl",
+  "formats": {
+    "instagramStories": {
+      "count": 5,
+      "width": 1080,
+      "height": 1920
+    },
+    "facebookLinkedin": {
+      "count": 2,
+      "width": 1200,
+      "height": 1500
+    }
+  },
+  "provenance": {
+    "illustrations": [
+      "next-app/public/art/gouache-seasons-observatory-heliocentric.png",
+      "next-app/public/art/painted-earth.png"
+    ],
+    "productScreenshots": [
+      "source/axis-on-1440x900.png",
+      "source/axis-off-1440x900.png"
+    ],
+    "productSources": [
+      "next-app/src/App.jsx",
+      "next-app/src/seasonsGeometry.js",
+      "docs/agent/SCIENCE_GAMEPLAY.md",
+      "docs/agent/VISUAL_UX.md"
+    ],
+    "scienceSources": [
+      "https://spaceplace.nasa.gov/seasons/en/",
+      "https://climatekids.nasa.gov/seasons/"
+    ],
+    "composition": "Deterministic AppKit render from social/source/render-human-product-packs.swift; native application art and true localhost seasons screens with axial tilt enabled and disabled captured with social/source/capture-local-app.swift"
+  }
+}

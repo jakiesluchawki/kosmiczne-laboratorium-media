@@ -1,0 +1,40 @@
+{
+  "id": "2026-06-14-earth-field-not-giant-magnet",
+  "status": "ready",
+  "topic": "Earth has a magnetic field generated mainly by motion in its electrically conducting liquid outer core, not one giant permanent magnet hidden inside",
+  "language": "pl",
+  "formats": {
+    "instagramStories": {
+      "count": 5,
+      "width": 1080,
+      "height": 1920
+    },
+    "facebookLinkedin": {
+      "count": 2,
+      "width": 1200,
+      "height": 1500
+    }
+  },
+  "provenance": {
+    "illustrations": [
+      "next-app/public/art/gouache-magnet-workbench.jpg",
+      "next-app/public/art/painted-earth.png",
+      "next-app/public/art/painted-magnet.png"
+    ],
+    "productScreenshots": [
+      "source/magnet-lab-1440x900.png",
+      "source/earth-field-card-1440x900.png"
+    ],
+    "productSources": [
+      "next-app/src/magnetLesson.js",
+      "next-app/src/App.jsx",
+      "docs/agent/SCIENCE_GAMEPLAY.md",
+      "docs/agent/VISUAL_UX.md"
+    ],
+    "scienceSources": [
+      "https://www.usgs.gov/faqs/how-does-earths-core-generate-a-magnetic-field",
+      "https://www.nps.gov/articles/000/earth-s-magnetic-field.htm"
+    ],
+    "composition": "Deterministic AppKit render from social/source/render-human-product-packs.swift; native application art and true localhost magnet laboratory and knowledge-card screens captured with social/source/capture-local-app.swift"
+  }
+}
