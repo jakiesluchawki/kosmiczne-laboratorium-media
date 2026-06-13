@@ -1,0 +1,34 @@
+{
+  "id": "2026-06-13-six-discoveries-stay-open",
+  "status": "ready",
+  "topic": "All six discoveries remain visible and revisitable; progress suggests a next step without locking the rest of the laboratory",
+  "language": "pl",
+  "formats": {
+    "instagramStories": {
+      "count": 5,
+      "width": 1080,
+      "height": 1920
+    },
+    "facebookLinkedin": {
+      "count": 2,
+      "width": 1200,
+      "height": 1500
+    }
+  },
+  "provenance": {
+    "illustrations": [
+      "next-app/public/art/gouache-mission-observatory.png",
+      "next-app/public/art/painted-earth.png"
+    ],
+    "productScreenshots": [
+      "source/mission-home-progress-1440x900.png",
+      "source/mission-home-complete-1440x900.png"
+    ],
+    "productSources": [
+      "next-app/src/missionProgress.js",
+      "next-app/src/App.jsx",
+      "docs/agent/PRODUCT_CONTENT.md"
+    ],
+    "composition": "Deterministic AppKit render from social/source/render-human-product-packs.swift; native application art and true localhost mission map states captured with social/source/capture-local-app.swift"
+  }
+}

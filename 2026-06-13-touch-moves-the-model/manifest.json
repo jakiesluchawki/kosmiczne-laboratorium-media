@@ -1,0 +1,36 @@
+{
+  "id": "2026-06-13-touch-moves-the-model",
+  "status": "ready",
+  "topic": "Dragging the Moon changes its orbital position and observed phase, while large phase buttons provide an equivalent alternative",
+  "language": "pl",
+  "formats": {
+    "instagramStories": {
+      "count": 5,
+      "width": 1080,
+      "height": 1920
+    },
+    "facebookLinkedin": {
+      "count": 2,
+      "width": 1200,
+      "height": 1500
+    }
+  },
+  "provenance": {
+    "illustrations": [
+      "next-app/public/art/gouache-moon-observatory.png",
+      "next-app/public/art/painted-earth.png",
+      "next-app/public/art/painted-moon.png"
+    ],
+    "productScreenshots": [
+      "source/moon-drag-1440x900.png",
+      "source/moon-phase-changed-1440x900.png"
+    ],
+    "productSources": [
+      "next-app/src/MoonLab.jsx",
+      "next-app/src/moonModel.js",
+      "docs/agent/PRODUCT_CONTENT.md",
+      "docs/agent/VISUAL_UX.md"
+    ],
+    "composition": "Deterministic AppKit render from social/source/render-human-product-packs.swift; native application art and true localhost Moon laboratory states captured with social/source/capture-local-app.swift"
+  }
+}
