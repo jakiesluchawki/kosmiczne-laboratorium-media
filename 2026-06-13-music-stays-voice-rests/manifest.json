@@ -1,0 +1,35 @@
+{
+  "id": "2026-06-13-music-stays-voice-rests",
+  "status": "ready",
+  "topic": "Narration and orchestral music are independent channels, so music can remain while the voice is disabled and active experiments stay quiet enough for observation",
+  "language": "pl",
+  "formats": {
+    "instagramStories": {
+      "count": 5,
+      "width": 1080,
+      "height": 1920
+    },
+    "facebookLinkedin": {
+      "count": 2,
+      "width": 1200,
+      "height": 1500
+    }
+  },
+  "provenance": {
+    "illustrations": [
+      "next-app/public/art/gouache-observatory-night.png",
+      "next-app/public/art/painted-earth.png"
+    ],
+    "productScreenshots": [
+      "source/orbit-music-without-voice-1440x900.png",
+      "source/separate-audio-settings-1440x900.png"
+    ],
+    "productSources": [
+      "next-app/src/App.jsx",
+      "next-app/src/backgroundMusic.js",
+      "next-app/MUSIC_NOTES.md",
+      "docs/agent/PRODUCT_CONTENT.md"
+    ],
+    "composition": "Deterministic AppKit render from social/source/render-human-product-packs.swift; native application art and true localhost orbit and adult settings screens captured with social/source/capture-local-app.swift"
+  }
+}

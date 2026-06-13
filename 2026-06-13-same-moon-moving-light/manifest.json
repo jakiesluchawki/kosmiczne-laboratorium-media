@@ -1,0 +1,36 @@
+{
+  "id": "2026-06-13-same-moon-moving-light",
+  "status": "ready",
+  "topic": "All Moon phases are rendered from one painted lunar surface while illumination moves across it and synchronous rotation keeps nearly the same side facing Earth",
+  "language": "pl",
+  "formats": {
+    "instagramStories": {
+      "count": 5,
+      "width": 1080,
+      "height": 1920
+    },
+    "facebookLinkedin": {
+      "count": 2,
+      "width": 1200,
+      "height": 1500
+    }
+  },
+  "provenance": {
+    "illustrations": [
+      "next-app/public/art/gouache-moon-observatory.png",
+      "next-app/public/art/painted-moon.png"
+    ],
+    "productScreenshots": [
+      "source/first-quarter-1440x900.png",
+      "source/last-quarter-1440x900.png"
+    ],
+    "productSources": [
+      "next-app/src/MoonLab.jsx",
+      "next-app/src/MoonSphere.jsx",
+      "next-app/src/moonModel.js",
+      "docs/agent/VISUAL_UX.md",
+      "docs/agent/SCIENCE_GAMEPLAY.md"
+    ],
+    "composition": "Deterministic AppKit render from social/source/render-human-product-packs.swift; native application art and true localhost first-quarter and last-quarter screens captured with social/source/capture-local-app.swift"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "id": "2026-06-13-one-orbit-opposite-seasons",
+  "status": "ready",
+  "topic": "The same orbital moment produces winter in Poland and summer in New Zealand because the hemispheres receive different daylight duration and sunlight angle",
+  "language": "pl",
+  "formats": {
+    "instagramStories": {
+      "count": 5,
+      "width": 1080,
+      "height": 1920
+    },
+    "facebookLinkedin": {
+      "count": 2,
+      "width": 1200,
+      "height": 1500
+    }
+  },
+  "provenance": {
+    "illustrations": [
+      "next-app/public/art/gouache-seasons-observatory-heliocentric.png",
+      "next-app/public/art/painted-earth.png"
+    ],
+    "productScreenshots": [
+      "source/poland-winter-1440x900.png",
+      "source/new-zealand-summer-1440x900.png"
+    ],
+    "productSources": [
+      "next-app/src/App.jsx",
+      "next-app/src/seasonsGeometry.js",
+      "docs/agent/VISUAL_UX.md",
+      "docs/agent/SCIENCE_GAMEPLAY.md"
+    ],
+    "composition": "Deterministic AppKit render from social/source/render-human-product-packs.swift; native application art and true localhost seasons screens captured at the same orbital position with social/source/capture-local-app.swift"
+  }
+}
