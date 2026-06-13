@@ -1,0 +1,36 @@
+{
+  "id": "2026-06-13-orbit-race-no-steering-wheel",
+  "status": "ready",
+  "topic": "The forgiving two-player orbit race has no steering wheel: players use only brake and boost to correct speed and return to the green orbital corridor",
+  "language": "pl",
+  "formats": {
+    "instagramStories": {
+      "count": 5,
+      "width": 1080,
+      "height": 1920
+    },
+    "facebookLinkedin": {
+      "count": 2,
+      "width": 1200,
+      "height": 1500
+    }
+  },
+  "provenance": {
+    "illustrations": [
+      "next-app/public/art/gouache-orbit-rescue.png",
+      "next-app/public/art/painted-orbit-car-mint.png",
+      "next-app/public/art/painted-orbit-car-coral.png"
+    ],
+    "productScreenshots": [
+      "source/race-setup-1440x900.png",
+      "source/race-ready-1440x900.png"
+    ],
+    "productSources": [
+      "next-app/src/RaceGame.jsx",
+      "docs/agent/SCIENCE_GAMEPLAY.md",
+      "docs/agent/PRODUCT_CONTENT.md",
+      "docs/agent/VISUAL_UX.md"
+    ],
+    "composition": "Deterministic AppKit render from social/source/render-human-product-packs.swift; native application art and true localhost race setup and control screens captured with social/source/capture-local-app.swift"
+  }
+}

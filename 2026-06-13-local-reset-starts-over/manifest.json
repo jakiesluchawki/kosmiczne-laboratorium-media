@@ -1,0 +1,34 @@
+{
+  "id": "2026-06-13-local-reset-starts-over",
+  "status": "ready",
+  "topic": "An adult can deliberately clear locally stored discovery progress and start again without an account or accidental one-tap deletion",
+  "language": "pl",
+  "formats": {
+    "instagramStories": {
+      "count": 5,
+      "width": 1080,
+      "height": 1920
+    },
+    "facebookLinkedin": {
+      "count": 2,
+      "width": 1200,
+      "height": 1500
+    }
+  },
+  "provenance": {
+    "illustrations": [
+      "next-app/public/art/gouache-discovery-treasure-book.png"
+    ],
+    "productScreenshots": [
+      "source/adult-gate-1440x900.png",
+      "source/reset-confirmation-1440x900.png",
+      "source/reset-complete-1440x900.png"
+    ],
+    "productSources": [
+      "next-app/src/App.jsx",
+      "docs/agent/PRODUCT_CONTENT.md",
+      "docs/agent/VISUAL_UX.md"
+    ],
+    "composition": "Deterministic AppKit render from social/source/render-human-product-packs.swift; native application art and true localhost adult gate, confirmation, and completed reset screens captured with social/source/capture-local-app.swift"
+  }
+}
