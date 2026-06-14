@@ -1,0 +1,39 @@
+{
+  "id": "2026-06-14-gravity-works-whole-flight",
+  "status": "ready",
+  "topic": "Gravity changes velocity throughout the complete flight; horizontal motion and continuous acceleration toward Earth combine into a curved trajectory",
+  "language": "pl",
+  "formats": {
+    "instagramStories": {
+      "count": 5,
+      "width": 1080,
+      "height": 1920
+    },
+    "facebookLinkedin": {
+      "count": 2,
+      "width": 1200,
+      "height": 1500
+    }
+  },
+  "provenance": {
+    "illustrations": [
+      "next-app/public/art/gouache-observatory-night.png",
+      "next-app/public/art/painted-earth.png",
+      "next-app/public/art/painted-projectile.png"
+    ],
+    "productScreenshots": [
+      "source/straight-drop-midflight-1440x900.png",
+      "source/side-throw-midflight-1440x900.png"
+    ],
+    "productSources": [
+      "next-app/src/App.jsx",
+      "next-app/src/orbitalPhysics.js",
+      "docs/agent/SCIENCE_GAMEPLAY.md",
+      "docs/agent/VISUAL_UX.md"
+    ],
+    "scienceSources": [
+      "https://science.nasa.gov/learn/basics-of-space-flight/chapter3-3/"
+    ],
+    "composition": "Deterministic AppKit render from social/source/render-human-product-packs.swift; native application art and true localhost vertical-drop and side-throw experiment screens"
+  }
+}

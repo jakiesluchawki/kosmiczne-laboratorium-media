@@ -1,0 +1,39 @@
+{
+  "id": "2026-06-14-no-tilt-no-seasons",
+  "status": "ready",
+  "topic": "Without axial tilt, day length and solar angle at a location remain nearly constant through the orbit, removing the main mechanism that creates pronounced seasons",
+  "language": "pl",
+  "formats": {
+    "instagramStories": {
+      "count": 5,
+      "width": 1080,
+      "height": 1920
+    },
+    "facebookLinkedin": {
+      "count": 2,
+      "width": 1200,
+      "height": 1500
+    }
+  },
+  "provenance": {
+    "illustrations": [
+      "next-app/public/art/gouache-seasons-observatory-heliocentric.png",
+      "next-app/public/art/painted-sun.png",
+      "next-app/public/art/painted-earth.png"
+    ],
+    "productScreenshots": [
+      "source/tilt-on-1440x900.png",
+      "source/tilt-off-1440x900.png"
+    ],
+    "productSources": [
+      "next-app/src/App.jsx",
+      "next-app/src/seasonsGeometry.js",
+      "docs/agent/SCIENCE_GAMEPLAY.md",
+      "docs/agent/VISUAL_UX.md"
+    ],
+    "scienceSources": [
+      "https://spaceplace.nasa.gov/seasons/en/"
+    ],
+    "composition": "Deterministic AppKit render from social/source/render-human-product-packs.swift; native application art and true localhost axial-tilt on and off experiment screens"
+  }
+}

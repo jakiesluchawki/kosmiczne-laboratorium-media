@@ -1,0 +1,39 @@
+{
+  "id": "2026-06-14-more-mass-more-curvature",
+  "status": "ready",
+  "topic": "At the same distance, increasing mass produces stronger gravitational acceleration, greater trajectory curvature, and a higher escape speed without requiring a larger visual planet",
+  "language": "pl",
+  "formats": {
+    "instagramStories": {
+      "count": 5,
+      "width": 1080,
+      "height": 1920
+    },
+    "facebookLinkedin": {
+      "count": 2,
+      "width": 1200,
+      "height": 1500
+    }
+  },
+  "provenance": {
+    "illustrations": [
+      "next-app/public/art/gouache-observatory-night.png",
+      "next-app/public/art/painted-earth.png",
+      "next-app/public/art/painted-projectile.png"
+    ],
+    "productScreenshots": [
+      "source/light-mass-1440x900.png",
+      "source/superheavy-mass-1440x900.png"
+    ],
+    "productSources": [
+      "next-app/src/App.jsx",
+      "next-app/src/orbitalPhysics.js",
+      "docs/agent/SCIENCE_GAMEPLAY.md",
+      "docs/agent/VISUAL_UX.md"
+    ],
+    "scienceSources": [
+      "https://science.nasa.gov/learn/basics-of-space-flight/chapter3-2/"
+    ],
+    "composition": "Deterministic AppKit render from social/source/render-human-product-packs.swift; native application art and true localhost light-mass and superheavy-mass screens"
+  }
+}
