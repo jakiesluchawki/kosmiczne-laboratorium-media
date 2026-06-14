@@ -20,10 +20,10 @@ ciał liczona na żywo ani dokładna mapa w skali. Jest to rekonstrukcja oparta 
 przebiegu prawdziwej misji, która pozwala zobaczyć sens kolejnych spotkań.
 
 Żeby dotrzeć dalej, Galileo najpierw poleciał do środka. Brzmi jak zagadka,
-ale po przejściu całej trasy staje się genialnie logiczne. Jestem tym naprawdę
-zajarany.
+ale po przejściu całej trasy staje się precyzyjnie logiczne. Właśnie dla
+takich kosmicznych łamigłówek buduję te rekonstrukcje.
 
-#KosmiczneLaboratorium #Galileo #NASA #astronomia #edtech
+#KosmiczneLaboratorium #Galileo #NASA
 
 # Facebook
 
@@ -39,5 +39,5 @@ do Jowisza.
 To jedna z tych prawdziwych historii, które wyglądają jak kosmiczna zagadka:
 żeby dotrzeć dalej, najpierw trzeba polecieć do środka.
 
-W aplikacji można przejść tę trasę krok po kroku. I tak, jestem nią potężnie
-zajarany.
+W aplikacji można przejść tę trasę krok po kroku. Ta droga nadal robi na mnie
+ogromne wrażenie, zwłaszcza kiedy mogę zobaczyć sens każdego kolejnego etapu.

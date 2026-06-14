@@ -22,7 +22,7 @@ na niebie nad lub pod tarczą Słońca, a jego cień mija Ziemię.
 Nów nie gasi Księżyca. Ukrywa przed nami jego jasną stronę. Proste zdanie, ale
 kiedy można je samemu sprawdzić, robi się naprawdę ekscytujące.
 
-#KosmiczneLaboratorium #astronomia #Księżyc #edukacja
+#KosmiczneLaboratorium #astronomia #Księżyc
 
 # Facebook
 
@@ -38,4 +38,4 @@ samej oświetlonej połowy.
 I jeszcze jedno: nów nie oznacza automatycznie zaćmienia Słońca. Orbita
 Księżyca jest nachylona, więc jego cień najczęściej mija Ziemię.
 
-Uwielbiam ten eksperyment. Jeden ruch po orbicie i cała faza robi się logiczna.
+Bardzo lubię patrzeć, jak jeden ruch po orbicie porządkuje cały obraz faz.

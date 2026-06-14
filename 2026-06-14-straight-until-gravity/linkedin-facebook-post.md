@@ -9,9 +9,9 @@ W idealnym modelu, kiedy nie działa wypadkowa siła, poruszający się obiekt
 zachowuje prędkość i kierunek. Dopiero po dodaniu planety grawitacja zaczyna
 zmieniać kierunek ruchu. Ten sam start daje teraz zupełnie inny tor.
 
-Uwielbiam to porównanie, bo nie trzeba zaczynać od definicji bezwładności.
-Najpierw jest prosta. Potem pojawia się masa i razem z nią krzywa. Dziecko
-widzi, co się zmieniło, zanim ktokolwiek poda nazwę zasady.
+To porównanie działa na mnie za każdym razem, bo nie trzeba zaczynać od
+definicji bezwładności. Najpierw jest prosta. Potem pojawia się masa i razem
+z nią krzywa. Dziecko widzi zmianę, zanim ktokolwiek poda nazwę zasady.
 
 Oczywiście model pomija tarcie. W codziennym świecie samochodzik zwalnia,
 bo działają na niego tarcie i opór powietrza. Ale właśnie po ich usunięciu
@@ -19,9 +19,9 @@ bo działają na niego tarcie i opór powietrza. Ale właśnie po ich usunięciu
 jego prędkość albo kierunek.
 
 Pusta siatka, jedna planeta i nagle pierwsza zasada Newtona naprawdę daje się
-zobaczyć. Jestem tym szczerze zajarany.
+zobaczyć. Właśnie dla takich prostych, widocznych odkryć buduję ten plac zabaw.
 
-#KosmiczneLaboratorium #fizyka #edukacja #edtech
+#KosmiczneLaboratorium #fizyka #edtech
 
 # Facebook
 

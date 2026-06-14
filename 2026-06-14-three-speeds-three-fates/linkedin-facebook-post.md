@@ -8,14 +8,15 @@ Za wolny rzut kończy się na Ziemi. Przy prędkości dobranej do odległości i
 masy piłka spada, ale stale mija powierzchnię, więc powstaje zamknięta orbita.
 Jeszcze szybszy rzut nie daje „lepszej” orbity. Może pozwolić piłce uciec.
 
-Uwielbiam tę zmianę intuicji. Nie wygrywa największa liczba. Wygrywa uważne
-porównanie trzech prób i odkrycie, że warunek orbity zależy od całego układu.
+Najbardziej lubię moment po trzeciej próbie: dziecko przestaje szukać
+największej liczby i zaczyna porównywać cały układ. Warunek orbity zależy
+przecież jednocześnie od prędkości, odległości i masy.
 
 Skala ekranu jest oczywiście umowna, ale zasada pozostaje uczciwa: przy tej
 samej masie i odległości zmiana prędkości naprawdę może rozdzielić upadek,
 orbitę i ucieczkę.
 
-#KosmiczneLaboratorium #edukacja #fizyka #orbita
+#KosmiczneLaboratorium #fizyka #orbita
 
 # Facebook
 
@@ -28,4 +29,5 @@ rzut może oznaczać ucieczkę.
 Największa prędkość nie wygrywa. Dziecko robi trzy próby i widzi, że orbita
 potrzebuje prędkości odpowiedniej dla odległości i masy.
 
-Trzy przyciski, trzy zupełnie różne losy. Jestem tym szczerze zajarany.
+Za każdym razem cieszy mnie, jak szybko te trzy próby porządkują intuicję:
+szybciej nie znaczy lepiej, a orbitę trzeba znaleźć.

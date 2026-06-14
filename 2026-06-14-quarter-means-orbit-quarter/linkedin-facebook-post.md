@@ -1,8 +1,9 @@
 # LinkedIn
 
 „Pierwsza kwadra” brzmi tak, jakby jasna miała być ćwiartka Księżyca. A w
-okularze widzimy przecież pół tarczy. Ten drobny zgrzyt językowy bardzo mnie
-kręci, bo model potrafi rozwiązać go w kilka sekund.
+okularze widzimy przecież pół tarczy. Bardzo lubię rozplątywać to drobne
+nieporozumienie w modelu, bo wystarczy przesunąć Księżyc i odpowiedź pojawia
+się w kilka sekund.
 
 Kwadra nie opisuje wielkości jasnego fragmentu. Mówi, gdzie Księżyc znajduje
 się na miesięcznej drodze: pierwsza kwadra wypada mniej więcej ćwierć obiegu
@@ -12,10 +13,11 @@ strony Księżyca.
 Przy ostatniej kwadrze znów widzimy pół tarczy, tylko jasna jest przeciwna
 strona. Księżyc przeszedł już mniej więcej trzy czwarte drogi cyklu.
 
-Uwielbiam takie momenty. Jedno słowo przestaje być nazwą do zapamiętania i
-nagle staje się opisem geometrii, którą dziecko może przesunąć własnym palcem.
+To jeden z tych momentów, dla których buduję ten model. Jedno słowo przestaje
+być nazwą do zapamiętania i staje się opisem geometrii, którą dziecko może
+przesunąć własnym palcem.
 
-#KosmiczneLaboratorium #Księżyc #astronomia #edukacja
+#KosmiczneLaboratorium #Księżyc #astronomia
 
 # Facebook
 
