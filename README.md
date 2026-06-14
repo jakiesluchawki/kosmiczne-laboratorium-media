@@ -7,6 +7,7 @@ https://jakiesluchawki.github.io/kosmiczne-laboratorium-media/
 
 Na stronie są dostępne bez logowania:
 
+- podsumowanie wykonanych prac, wszystkie główne linki i następne decyzje w PDF;
 - jeden ZIP ze wszystkimi gotowymi materiałami;
 - jeden ZIP ze wszystkimi czterdziestoma pięcioma gotowymi paczkami social;
 - ogólny pakiet medialny w PDF, DOCX i ZIP;
