@@ -1,0 +1,40 @@
+{
+  "id": "2026-06-14-keyboard-moves-the-model",
+  "status": "ready",
+  "topic": "Dragging is not the only way to operate the cosmic playground: large buttons and keyboard shortcuts change the same physical model",
+  "language": "pl",
+  "formats": {
+    "instagramStories": {
+      "count": 5,
+      "width": 1080,
+      "height": 1920
+    },
+    "facebookLinkedin": {
+      "count": 2,
+      "width": 1200,
+      "height": 1500
+    }
+  },
+  "provenance": {
+    "illustrations": [
+      "next-app/public/art/gouache-observatory-night.png",
+      "next-app/public/art/painted-earth.png",
+      "next-app/public/art/painted-moon.png"
+    ],
+    "productScreenshots": [
+      "source/button-controls-1440x900.png",
+      "source/keyboard-controls-1440x900.png"
+    ],
+    "productSources": [
+      "next-app/src/playgroundKeyboard.js",
+      "next-app/src/App.jsx",
+      "docs/agent/PRODUCT_CONTENT.md",
+      "docs/agent/VISUAL_UX.md"
+    ],
+    "accessibilitySources": [
+      "https://www.w3.org/WAI/WCAG22/Understanding/keyboard.html",
+      "https://www.w3.org/WAI/WCAG22/Understanding/dragging-movements.html"
+    ],
+    "composition": "Deterministic AppKit render from social/source/render-human-product-packs.swift; native application art and true localhost control states captured with social/source/capture-local-app.swift"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "2026-06-14-every-visible-mass-pulls",
+  "status": "ready",
+  "topic": "Every visible mass contributes simultaneously to the gravitational acceleration of each moving body in the cosmic playground",
+  "language": "pl",
+  "formats": {
+    "instagramStories": {
+      "count": 5,
+      "width": 1080,
+      "height": 1920
+    },
+    "facebookLinkedin": {
+      "count": 2,
+      "width": 1200,
+      "height": 1500
+    }
+  },
+  "provenance": {
+    "illustrations": [
+      "next-app/public/art/gouache-observatory-night.png",
+      "next-app/public/art/painted-earth.png",
+      "next-app/public/art/painted-moon.png",
+      "next-app/public/art/painted-orbit-car-mint.png"
+    ],
+    "productScreenshots": [
+      "source/empty-space-1440x900.png",
+      "source/two-masses-1440x900.png"
+    ],
+    "productSources": [
+      "next-app/src/orbitalPhysics.js",
+      "next-app/src/playgroundPhysics.js",
+      "next-app/src/App.jsx",
+      "docs/agent/SCIENCE_GAMEPLAY.md",
+      "docs/agent/VISUAL_UX.md"
+    ],
+    "scienceSources": [
+      "https://science.nasa.gov/universe/gravity-time-and-space/"
+    ],
+    "composition": "Deterministic AppKit render from social/source/render-human-product-packs.swift; native application art and true localhost cosmic-playground screens captured with social/source/capture-local-app.swift"
+  }
+}

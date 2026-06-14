@@ -1,0 +1,44 @@
+{
+  "id": "2026-06-14-reconstruction-not-live-simulation",
+  "status": "ready",
+  "topic": "The application explicitly distinguishes live physical simulation from staged, source-backed reconstructions of historical space missions",
+  "language": "pl",
+  "formats": {
+    "instagramStories": {
+      "count": 5,
+      "width": 1080,
+      "height": 1920
+    },
+    "facebookLinkedin": {
+      "count": 2,
+      "width": 1200,
+      "height": 1500
+    }
+  },
+  "provenance": {
+    "illustrations": [
+      "next-app/public/art/gouache-orbit-rescue.png",
+      "next-app/public/art/gouache-voyager-grand-tour.png",
+      "next-app/public/art/painted-apollo-13-docked.png",
+      "next-app/public/art/painted-voyager.png"
+    ],
+    "productScreenshots": [
+      "source/reconstruction-note-1440x900.png",
+      "source/voyager-reconstruction-1440x900.png"
+    ],
+    "productSources": [
+      "next-app/src/GravityAssistLab.jsx",
+      "next-app/src/gravityAssistMission.js",
+      "next-app/src/gravityAssistController.js",
+      "next-app/src/playgroundPhysics.js",
+      "docs/agent/SCIENCE_GAMEPLAY.md",
+      "docs/agent/VISUAL_UX.md"
+    ],
+    "scienceSources": [
+      "https://www.nasa.gov/history/50-years-ago-apollo-13-off-to-the-moon/",
+      "https://science.nasa.gov/learn/basics-of-space-flight/primer/",
+      "https://science.nasa.gov/mission/galileo/"
+    ],
+    "composition": "Deterministic AppKit render from social/source/render-human-product-packs.swift; native application art and true localhost gravity-assist screens captured with social/source/capture-local-app.swift"
+  }
+}
