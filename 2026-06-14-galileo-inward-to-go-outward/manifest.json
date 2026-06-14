@@ -1,0 +1,43 @@
+{
+  "id": "2026-06-14-galileo-inward-to-go-outward",
+  "status": "ready",
+  "topic": "Galileo first flew inward toward Venus so gravity assists from Venus and two Earth flybys could send the heavy spacecraft outward to Jupiter",
+  "language": "pl",
+  "formats": {
+    "instagramStories": {
+      "count": 5,
+      "width": 1080,
+      "height": 1920
+    },
+    "facebookLinkedin": {
+      "count": 2,
+      "width": 1200,
+      "height": 1500
+    }
+  },
+  "provenance": {
+    "illustrations": [
+      "next-app/public/art/gouache-galileo-veega-single-earth.png",
+      "next-app/public/art/painted-galileo.png",
+      "next-app/public/art/painted-earth.png",
+      "next-app/public/art/planets/venus.png"
+    ],
+    "productScreenshots": [
+      "source/galileo-venus-stage-1440x900.png",
+      "source/galileo-second-earth-stage-1440x900.png"
+    ],
+    "productSources": [
+      "next-app/src/GravityAssistLab.jsx",
+      "next-app/src/gravityAssistMission.js",
+      "next-app/src/gravityAssistController.js",
+      "docs/agent/SCIENCE_GAMEPLAY.md",
+      "docs/agent/VISUAL_UX.md"
+    ],
+    "scienceSources": [
+      "https://science.nasa.gov/mission/galileo/",
+      "https://science.nasa.gov/learn/basics-of-space-flight/primer/",
+      "https://science.nasa.gov/photojournal/deployment-of-galileo-and-the-ius/"
+    ],
+    "composition": "Deterministic AppKit render from social/source/render-human-product-packs.swift; native application art and true localhost Galileo reconstruction screens"
+  }
+}

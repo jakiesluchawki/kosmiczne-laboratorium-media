@@ -1,0 +1,42 @@
+{
+  "id": "2026-06-14-new-moon-still-lit",
+  "status": "ready",
+  "topic": "During new moon the Sun still illuminates half of the Moon, but the illuminated half faces away from Earth",
+  "language": "pl",
+  "formats": {
+    "instagramStories": {
+      "count": 5,
+      "width": 1080,
+      "height": 1920
+    },
+    "facebookLinkedin": {
+      "count": 2,
+      "width": 1200,
+      "height": 1500
+    }
+  },
+  "provenance": {
+    "illustrations": [
+      "next-app/public/art/gouache-moon-observatory.png",
+      "next-app/public/art/painted-sun.png",
+      "next-app/public/art/painted-earth.png",
+      "next-app/public/art/painted-moon.png"
+    ],
+    "productScreenshots": [
+      "source/new-moon-tested-1440x900.png",
+      "source/waxing-crescent-tested-1440x900.png"
+    ],
+    "productSources": [
+      "next-app/src/MoonLab.jsx",
+      "next-app/src/MoonSphere.jsx",
+      "next-app/src/moonModel.js",
+      "docs/agent/SCIENCE_GAMEPLAY.md",
+      "docs/agent/VISUAL_UX.md"
+    ],
+    "scienceSources": [
+      "https://science.nasa.gov/moon/moon-phases/",
+      "https://science.nasa.gov/eclipses/geometry/"
+    ],
+    "composition": "Deterministic AppKit render from social/source/render-human-product-packs.swift; native application art and true tested localhost Moon-lab screens"
+  }
+}
