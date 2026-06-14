@@ -1,0 +1,41 @@
+{
+  "id": "2026-06-14-gravity-assist-not-a-bounce",
+  "status": "ready",
+  "topic": "A gravity assist bends a spacecraft trajectory and can change its speed relative to the Sun; it is not a physical bounce from a planet",
+  "language": "pl",
+  "formats": {
+    "instagramStories": {
+      "count": 5,
+      "width": 1080,
+      "height": 1920
+    },
+    "facebookLinkedin": {
+      "count": 2,
+      "width": 1200,
+      "height": 1500
+    }
+  },
+  "provenance": {
+    "illustrations": [
+      "next-app/public/art/gouache-voyager-grand-tour.png",
+      "next-app/public/art/painted-voyager.png",
+      "next-app/public/art/planets/jupiter.png"
+    ],
+    "productScreenshots": [
+      "source/voyager-jupiter-1440x900.png",
+      "source/voyager-uranus-1440x900.png"
+    ],
+    "productSources": [
+      "next-app/src/GravityAssistLab.jsx",
+      "next-app/src/gravityAssistMission.js",
+      "next-app/src/gravityAssistController.js",
+      "docs/agent/SCIENCE_GAMEPLAY.md",
+      "docs/agent/VISUAL_UX.md"
+    ],
+    "scienceSources": [
+      "https://science.nasa.gov/learn/basics-of-space-flight/primer/",
+      "https://science.nasa.gov/mission/voyager/voyager-2/"
+    ],
+    "composition": "Deterministic AppKit render from social/source/render-human-product-packs.swift; native application art and true localhost Voyager reconstruction screens"
+  }
+}

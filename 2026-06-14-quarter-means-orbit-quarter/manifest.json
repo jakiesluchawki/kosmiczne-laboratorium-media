@@ -1,0 +1,40 @@
+{
+  "id": "2026-06-14-quarter-means-orbit-quarter",
+  "status": "ready",
+  "topic": "First and last quarter describe positions along the lunar phase cycle while about half of the illuminated disk is visible",
+  "language": "pl",
+  "formats": {
+    "instagramStories": {
+      "count": 5,
+      "width": 1080,
+      "height": 1920
+    },
+    "facebookLinkedin": {
+      "count": 2,
+      "width": 1200,
+      "height": 1500
+    }
+  },
+  "provenance": {
+    "illustrations": [
+      "next-app/public/art/gouache-moon-observatory.png",
+      "next-app/public/art/painted-sun.png",
+      "next-app/public/art/painted-earth.png",
+      "next-app/public/art/painted-moon.png"
+    ],
+    "productScreenshots": [
+      "source/first-quarter-1440x900.png",
+      "source/last-quarter-1440x900.png"
+    ],
+    "productSources": [
+      "next-app/src/MoonLab.jsx",
+      "next-app/src/moonModel.js",
+      "docs/agent/SCIENCE_GAMEPLAY.md",
+      "docs/agent/VISUAL_UX.md"
+    ],
+    "scienceSources": [
+      "https://science.nasa.gov/moon/moon-phases/"
+    ],
+    "composition": "Deterministic AppKit render from social/source/render-human-product-packs.swift; native application art and true localhost Moon-model screens"
+  }
+}
