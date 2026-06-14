@@ -2,7 +2,10 @@
 
 Gotowy pakiet o narracji w aplikacji: krótki głos pomaga wejść w zadanie,
 ale nie opisuje każdego ruchu. Odsłuch jest wyborem, tekst pozostaje widoczny,
-a obecny głos systemowy jest uczciwie oznaczony jako wersja przejściowa.
+a aktualna wersja korzysta głównie z gotowych nagrań AI zapisanych w aplikacji.
+Lokalny polski głos systemowy uruchamia się tylko wtedy, gdy konkretnego
+nagrania brakuje. Obie wersje są przejściowe przed nagraniem jednej ludzkiej
+narratorki.
 
 - `instagram-stories/` - pięć plansz 1080 x 1920;
 - `facebook-linkedin/` - dwa obrazy 1200 x 1500;
@@ -17,7 +20,7 @@ a obecny głos systemowy jest uczciwie oznaczony jako wersja przejściowa.
 
 ## Źródła
 
-- prawdziwy ekran wprowadzenia: `source/intro-narration-1440x900.png`
 - prawdziwy ekran ustawień: `source/narration-settings-1440x900.png`
-- zachowanie narracji: `next-app/src/IntroExperience.jsx`, `next-app/src/App.jsx`
+- zachowanie narracji: `next-app/src/voicePlayer.js`,
+  `next-app/src/voice-manifest.json`, `next-app/src/App.jsx`
 - kontrakt treści i dostępności: `docs/agent/PRODUCT_CONTENT.md`

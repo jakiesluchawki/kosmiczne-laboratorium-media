@@ -1,0 +1,39 @@
+{
+  "id": "2026-06-14-summer-two-light-effects",
+  "status": "ready",
+  "topic": "Axial tilt changes both day length and the angle at which sunlight reaches a location, producing longer days and more direct sunlight in Polish summer than in winter",
+  "language": "pl",
+  "formats": {
+    "instagramStories": {
+      "count": 5,
+      "width": 1080,
+      "height": 1920
+    },
+    "facebookLinkedin": {
+      "count": 2,
+      "width": 1200,
+      "height": 1500
+    }
+  },
+  "provenance": {
+    "illustrations": [
+      "next-app/public/art/gouache-seasons-observatory-heliocentric.png",
+      "next-app/public/art/painted-sun.png",
+      "next-app/public/art/painted-earth.png"
+    ],
+    "productScreenshots": [
+      "source/summer-poland-1440x900.png",
+      "source/winter-poland-1440x900.png"
+    ],
+    "productSources": [
+      "next-app/src/App.jsx",
+      "next-app/src/seasonsGeometry.js",
+      "docs/agent/SCIENCE_GAMEPLAY.md",
+      "docs/agent/VISUAL_UX.md"
+    ],
+    "scienceSources": [
+      "https://spaceplace.nasa.gov/seasons/en/"
+    ],
+    "composition": "Deterministic AppKit render from social/source/render-human-product-packs.swift; native application art and true localhost Polish summer and winter screens cropped to their day-length and sunlight-angle readouts"
+  }
+}

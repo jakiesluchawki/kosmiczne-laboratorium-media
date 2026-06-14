@@ -6,17 +6,19 @@ W Kosmicznym Laboratorium głos ma pomóc wejść w pytanie, a potem zrobić
 miejsce na patrzenie, próbowanie i własny wniosek. Krótkie wprowadzenie można
 odsłuchać, ale tekst cały czas zostaje na ekranie. Narrację można też wyłączyć.
 
-Uczciwie: dziś czyta jeszcze głos systemowy. To wersja przejściowa, nie gotowa
-warstwa aktorska. Docelowo chcę nagrać jeden spokojny, ludzki głos dla całej
-aplikacji.
+Uczciwy stan na dziś jest taki: aplikacja ma 67 gotowych nagrań AI. Są częścią
+builda i podczas odsłuchu tekst nie jest wysyłany do zewnętrznej usługi.
+Jeżeli konkretnego nagrania brakuje, tę jedną kwestię czyta lokalny polski głos
+systemowy. To zabezpieczenie, nie główny narrator.
 
-Cieszy mnie już sam sposób, w jaki ten głos działa. Nie komentuje każdego
-ruchu i nie odbiera dziecku chwili ciszy. Profil „Czytaj i upraszczaj” łączy
-narrację z większym tekstem, mocniejszym kontrastem i mniejszą ilością
+Naprawdę cieszy mnie już sam sposób, w jaki ta warstwa działa. Nie komentuje
+każdego ruchu i nie odbiera dziecku chwili ciszy. Profil „Czytaj i upraszczaj”
+łączy narrację z większym tekstem, mocniejszym kontrastem i mniejszą ilością
 ozdobnego ruchu.
 
-Dobry głos nie ma być głównym bohaterem eksperymentu. Ma otworzyć drzwi,
-a potem oddać ster. Właśnie taką narrację chcę tu zbudować.
+Nagrania AI i głos systemowy są wersją przejściową. Docelowo całość nagra jedna
+osoba. Zasada zostanie ta sama: dobry głos ma otworzyć drzwi, a potem oddać
+ster dziecku.
 
 #KosmiczneLaboratorium #dostępność #edtech
 
@@ -28,8 +30,10 @@ Moim zdaniem nie. Ma pomóc wejść w zadanie, a potem zostawić miejsce na
 patrzenie i własną próbę. Dlatego wprowadzenie można odsłuchać, tekst nadal
 jest widoczny, a narrację można całkiem wyłączyć.
 
-Na razie czyta głos systemowy. To wersja przejściowa. Docelowo chcę nagrać
-jeden spokojny, ludzki głos dla całej aplikacji.
+Teraz aplikacja korzysta głównie z 67 gotowych nagrań AI. Jeśli konkretnego
+pliku brakuje, jedną kwestię czyta lokalny głos systemowy. Podczas odsłuchu
+tekst nie jest wysyłany do zewnętrznej usługi.
 
-Bardzo lubię tę zasadę: głos pomaga zacząć, ale odkrycie nadal należy do
-dziecka.
+Obie wersje są przejściowe przed nagraniem jednej ludzkiej narratorki. Bardzo
+lubię jednak zasadę, która już działa: głos pomaga zacząć, ale odkrycie nadal
+należy do dziecka.

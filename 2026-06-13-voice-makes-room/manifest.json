@@ -1,7 +1,7 @@
 {
   "id": "2026-06-13-voice-makes-room",
   "status": "ready",
-  "topic": "Optional narration introduces the task and then leaves room for observation; the current system voice is explicitly temporary",
+  "topic": "Optional narration uses packaged synthetic clips first and a local Polish system voice only as fallback; both are temporary before one consistent human narrator",
   "language": "pl",
   "formats": {
     "instagramStories": {
@@ -21,14 +21,14 @@
       "next-app/public/art/painted-moon.png"
     ],
     "productScreenshots": [
-      "source/intro-narration-1440x900.png",
       "source/narration-settings-1440x900.png"
     ],
     "productSources": [
-      "next-app/src/IntroExperience.jsx",
+      "next-app/src/voicePlayer.js",
+      "next-app/src/voice-manifest.json",
       "next-app/src/App.jsx",
       "docs/agent/PRODUCT_CONTENT.md"
     ],
-    "composition": "Deterministic AppKit render from social/source/render-human-product-packs.swift; native application art and true localhost introduction and adult settings screens captured with social/source/capture-local-app.swift"
+    "composition": "Deterministic AppKit render from social/source/render-human-product-packs.swift; native application art and a true localhost adult settings screen captured with social/source/capture-local-app.swift"
   }
 }

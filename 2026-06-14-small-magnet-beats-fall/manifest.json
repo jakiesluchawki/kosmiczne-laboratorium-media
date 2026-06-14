@@ -1,0 +1,38 @@
+{
+  "id": "2026-06-14-small-magnet-beats-fall",
+  "status": "ready",
+  "topic": "A nearby magnet can exert an upward force on a steel paperclip that balances or exceeds its weight while gravity continues to act",
+  "language": "pl",
+  "formats": {
+    "instagramStories": {
+      "count": 5,
+      "width": 1080,
+      "height": 1920
+    },
+    "facebookLinkedin": {
+      "count": 2,
+      "width": 1200,
+      "height": 1500
+    }
+  },
+  "provenance": {
+    "illustrations": [
+      "next-app/public/art/gouache-magnet-workbench.jpg",
+      "next-app/public/art/painted-magnet.png"
+    ],
+    "productScreenshots": [
+      "source/gravity-paperclip-1440x900.png",
+      "source/magnet-paperclip-1440x900.png"
+    ],
+    "productSources": [
+      "next-app/src/App.jsx",
+      "docs/agent/SCIENCE_GAMEPLAY.md",
+      "docs/agent/VISUAL_UX.md"
+    ],
+    "scienceSources": [
+      "https://spaceplace.nasa.gov/what-is-gravity/en/",
+      "https://nationalmaglab.org/magnet-academy/try-this-at-home/magnetic-hopping/"
+    ],
+    "composition": "Deterministic AppKit render from social/source/render-human-product-packs.swift; native application art and true localhost gravity and magnet screens using the same selected steel paperclip"
+  }
+}
