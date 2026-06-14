@@ -14,4 +14,8 @@ Na stronie są dostępne bez logowania:
 - uniwersalny pakiet współpracy dla instytucji edukacyjnych i kulturalnych;
 - pełne dzienne paczki PNG wraz z tekstami i manifestami.
 
+Zbiorcze ZIP-y są publikowane jako stale aktualizowane assety wydania
+`media-latest`, dzięki czemu ich bezpośrednie adresy nie zmieniają się między
+wydaniami.
+
 Repozytorium nie zawiera kodu aplikacji ani materiałów roboczych.
