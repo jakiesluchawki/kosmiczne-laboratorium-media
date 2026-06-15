@@ -1,0 +1,162 @@
+{
+  "id": "2026-06-15-human-voices-were-the-plan",
+  "status": "ready",
+  "language": "pl",
+  "application": "https://jakiesluchawki.github.io/kosmiczne-laboratorium/",
+  "credits": [
+    "Iza Szela",
+    "Piotr Makowski"
+  ],
+  "formats": {
+    "instagramStories": {
+      "count": 8,
+      "width": 1080,
+      "height": 1920
+    },
+    "instagramCarousel": {
+      "count": 6,
+      "width": 1080,
+      "height": 1350
+    },
+    "linkedin": {
+      "count": 1,
+      "width": 1200,
+      "height": 627
+    },
+    "facebook": {
+      "count": 1,
+      "width": 1200,
+      "height": 1500
+    }
+  },
+  "assets": [
+    {
+      "path": "instagram-stories/01-od-poczatku-prawdziwe-glosy.png",
+      "bytes": 1304280,
+      "sha256": "f1d2bc93a00d116ce610b6cda93711e52b3aa1d2a1d6280087d1ead7b013f0c0"
+    },
+    {
+      "path": "instagram-stories/02-wlasne-studio.png",
+      "bytes": 827957,
+      "sha256": "1d0aebf520e5fa8efd1f67472e9b8cb20092847a8edeaa6439dc4136c129ec28"
+    },
+    {
+      "path": "instagram-stories/03-feedback-szesciolatka.png",
+      "bytes": 826202,
+      "sha256": "6b1180ca1030592ba88fbdb2eed803333611805d3a7d08f3106933a6361491ec"
+    },
+    {
+      "path": "instagram-stories/04-utwierdzil-mnie.png",
+      "bytes": 1337293,
+      "sha256": "7e34dd3f51e2f130fa4ad1ebc7a41c70b5269584b82009581a3c89dd32f907f9"
+    },
+    {
+      "path": "instagram-stories/05-kazdy-moment.png",
+      "bytes": 1787709,
+      "sha256": "b213e042d92526e5176be0fed444d36e448b702c70110bddbcd4f6bed5b6e63f"
+    },
+    {
+      "path": "instagram-stories/06-droga-do-premiery.png",
+      "bytes": 1816870,
+      "sha256": "729735e70ef8daad0dfdae24135628fd62acbc46f458a080d9b201ab5f24f339"
+    },
+    {
+      "path": "instagram-stories/07-openai-tokeny.png",
+      "bytes": 1709570,
+      "sha256": "d1553162486d2d4c4929131297091b4c50141c09cdca952ffe2dfc773b12a0fa"
+    },
+    {
+      "path": "instagram-stories/08-otworz-aplikacje.png",
+      "bytes": 1638404,
+      "sha256": "d35405f2aa205e17b55fead26b699ca9d513bd4ec9cea1e7e2acb64621b7f574"
+    },
+    {
+      "path": "instagram-carousel/01-premiera.png",
+      "bytes": 929572,
+      "sha256": "62ff0e290d175d71b0d3d8fd7bb74abe6efeaa75bc5e222c2054a7bd382f4abc"
+    },
+    {
+      "path": "instagram-carousel/02-pierwszy-prompt.png",
+      "bytes": 777026,
+      "sha256": "da0846e1eff259d94e88699c7f9ccfd062e8f6448edfd031930858d3f4b7aa47"
+    },
+    {
+      "path": "instagram-carousel/03-decyzja.png",
+      "bytes": 1178020,
+      "sha256": "c3af2d1b24da4614540b7e21dd5ff3714dab683fd01a6d6b6eaf55d8ed8eb535"
+    },
+    {
+      "path": "instagram-carousel/04-jakosc.png",
+      "bytes": 1294705,
+      "sha256": "1963303cf49f0b764f66a4f26b39fb32d387aca7b8b5ea26b93051943f796384"
+    },
+    {
+      "path": "instagram-carousel/05-statystyki.png",
+      "bytes": 1307204,
+      "sha256": "f024ce9dcb9c78fab446a3e6d3411e41f74284f945406c442fb045dd8e4a385e"
+    },
+    {
+      "path": "instagram-carousel/06-cta.png",
+      "bytes": 970664,
+      "sha256": "0bc66768d525e4ae85ac114afde32c8bfbbde2466a6aa1975704ec958563eb2e"
+    },
+    {
+      "path": "facebook-linkedin/01-linkedin-1200x627.png",
+      "bytes": 528748,
+      "sha256": "2b0684e47d529e786d34e7fd9b09d598b2977e08a080f17ecfb4bb99a0d7804c"
+    },
+    {
+      "path": "facebook-linkedin/02-facebook-1200x1500.png",
+      "bytes": 990133,
+      "sha256": "99ae76dca0d673c0bae11a25266ff02b488db53a77e322a0d1520506f2bf90bd"
+    }
+  ],
+  "supportFiles": [
+    {
+      "path": "README.md",
+      "bytes": 1363,
+      "sha256": "3da4a113fdc9793f2a645cc271b162eda0c15462f69e8e07dd5b8f03bb4592ff"
+    },
+    {
+      "path": "linkedin-facebook-post.md",
+      "bytes": 1602,
+      "sha256": "ba0385190b8fc5267887c34f89247e8dc312a91e8bceb4e5d60321489a18a045"
+    },
+    {
+      "path": "preview.png",
+      "bytes": 851986,
+      "sha256": "3e2b233df1c79e2d7ced70d8e39222f9c6713a1806af7e190fcceab1bc0f2c72"
+    },
+    {
+      "path": "stats-and-methodology.json",
+      "bytes": 1946,
+      "sha256": "449dfc0334d4803531bb3fd355d7da637021199a04a414081f252ba99dddc075"
+    },
+    {
+      "path": "copy/facebook.txt",
+      "bytes": 1298,
+      "sha256": "9cf34e07cb32dc61d381dde3ed792014003885815656f97f195712d3970ebc1a"
+    },
+    {
+      "path": "copy/instagram.txt",
+      "bytes": 928,
+      "sha256": "12c789d7e844a4d6f999db5b88dba1d31a90624b7ac12796fba685c0c66ec279"
+    },
+    {
+      "path": "copy/linkedin.txt",
+      "bytes": 1964,
+      "sha256": "0934e7bef63957f45d273ebd2d3ee6ba21e5fb5b3da385a4e61380127db9de60"
+    },
+    {
+      "path": "copy/stories_sequence.txt",
+      "bytes": 618,
+      "sha256": "e67bbd82188163dddde68d4cff7a103af0d3b02bdce269a7cc5773377c0c01cf"
+    }
+  ],
+  "tokenEstimate": {
+    "confirmedMinimum": 209236540,
+    "estimatedRange": "300-500 mln",
+    "includesCachedContexts": true
+  },
+  "modelAttribution": "OpenAI model"
+}

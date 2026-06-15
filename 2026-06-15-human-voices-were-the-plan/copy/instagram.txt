@@ -1,0 +1,25 @@
+Od początku wiedziałem, że finał musi mieć prawdziwe głosy.
+
+Syntetyczne pomogły zbudować prototyp. Ale mam studio dźwiękowe, więc mogłem zagrać po swoich warunkach i nagrać ludzi.
+
+Potem sześciolatek powiedział:
+„Wszystko fajnie, ale sztuczne głosy mnie denerwują.”
+
+Nie zmienił planu. Utwierdził mnie, że ten plan ma sens.
+
+Kosmiczne Laboratorium dostało prawdziwe głosy, które prowadzą dzieci przez opowieść i otulają ją ciepłem.
+
+121 nagranych momentów. Każdy osobno dopasowany i sprawdzony.
+
+Głosów użyczyli Iza Szela i Piotr Makowski.
+
+Pierwszy prompt: 6 czerwca, 07:42.
+Premiera z głosami: 15 czerwca, 19:04.
+338 commitów. 111 wdrożeń. 285 testów.
+Aplikacja współtworzona z modelem OpenAI.
+Szacunkowo 300–500 mln przetworzonych tokenów.
+
+Uruchom:
+jakiesluchawki.github.io/kosmiczne-laboratorium/
+
+#KosmiczneLaboratorium #Kosmos #STEM #EdTech #NaukaDlaDzieci #Edukacja #AI
