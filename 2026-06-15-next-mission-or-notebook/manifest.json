@@ -1,0 +1,35 @@
+{
+  "id": "2026-06-15-next-mission-or-notebook",
+  "status": "ready",
+  "topic": "After saving a discovery, the app either points to the next unfinished mission or hands the child to the discovery notebook instead of ending the flow",
+  "language": "pl",
+  "formats": {
+    "instagramStories": {
+      "count": 5,
+      "width": 1080,
+      "height": 1920
+    },
+    "facebookLinkedin": {
+      "count": 2,
+      "width": 1200,
+      "height": 1500
+    }
+  },
+  "provenance": {
+    "illustrations": [
+      "next-app/public/art/gouache-mission-observatory.png"
+    ],
+    "productScreenshots": [
+      "source/mission-home-next-1440x900.png",
+      "source/completion-next-1440x900.png",
+      "source/mission-home-notebook-handoff-1440x900.png"
+    ],
+    "productSources": [
+      "next-app/src/App.jsx",
+      "next-app/src/missionProgress.js",
+      "next-app/README.md",
+      "docs/agent/PRODUCT_CONTENT.md"
+    ],
+    "composition": "Deterministic AppKit render from social/source/render-human-product-packs.swift; native application art and true localhost home and completion states captured with social/source/capture-local-app.swift"
+  }
+}
