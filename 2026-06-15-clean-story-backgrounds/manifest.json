@@ -1,0 +1,73 @@
+{
+  "id": "2026-06-15-clean-story-backgrounds",
+  "status": "ready",
+  "count": 8,
+  "format": "PNG",
+  "storySize": "1080x1920",
+  "content": "clean backgrounds only; no text, logos, frames or captions",
+  "assets": [
+    {
+      "path": "backgrounds/01-droga-mleczna.png",
+      "width": 1080,
+      "height": 1920,
+      "bytes": 3518583,
+      "sha256": "e51ec41051a5694d2a82a160d1142603dfecb07f52da362fd7a5f6b5f16cf722"
+    },
+    {
+      "path": "backgrounds/02-studio-i-magnes.png",
+      "width": 1080,
+      "height": 1920,
+      "bytes": 989139,
+      "sha256": "ebe462bfcac878e0b49d64f0bb44a5feffc86be03d4de43b7990b7dc0ea0f5c4"
+    },
+    {
+      "path": "backgrounds/03-grawitacja.png",
+      "width": 1080,
+      "height": 1920,
+      "bytes": 3612503,
+      "sha256": "d97509c147a073b47de007271ee1269c39e7dd05fe6a099f088d4b475dde3efd"
+    },
+    {
+      "path": "backgrounds/04-ksiezyc.png",
+      "width": 1080,
+      "height": 1920,
+      "bytes": 3446920,
+      "sha256": "5eed3a56bf6d5f0f1d8522ac5b5fbe4133e64ea84988927fdd5ede27bf1e8d2b"
+    },
+    {
+      "path": "backgrounds/05-orbita.png",
+      "width": 1080,
+      "height": 1920,
+      "bytes": 3441295,
+      "sha256": "5472d1c771301099c6e9e800e2dffc386083beb4668673e6f8097c5d57212065"
+    },
+    {
+      "path": "backgrounds/06-pory-roku.png",
+      "width": 1080,
+      "height": 1920,
+      "bytes": 3059942,
+      "sha256": "a250d922997f53bd58e0f9cbb9828dde031f9dac169ecb8906ef53f0fc607448"
+    },
+    {
+      "path": "backgrounds/07-misje-kosmiczne.png",
+      "width": 1080,
+      "height": 1920,
+      "bytes": 3448689,
+      "sha256": "6a2b8e6a3a506b56b2d39fd9779c48db451225ded2f8d7c09d985216282dc07e"
+    },
+    {
+      "path": "backgrounds/08-tor-orbitalny.png",
+      "width": 1080,
+      "height": 1920,
+      "bytes": 1241811,
+      "sha256": "0d3c85a0af16322b406162b33d7c66a5b999ad85400155f1b7e147c4b70b3e05"
+    }
+  ],
+  "preview": {
+    "path": "preview.png",
+    "width": 1216,
+    "height": 1048,
+    "bytes": 1625337,
+    "sha256": "6b3ce3310deb762bf8ca2eee036c18b5916742f368311c9baa36eea63a8a310a"
+  }
+}
