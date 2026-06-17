@@ -1,0 +1,36 @@
+{
+  "id": "2026-06-17-rewatch-intro-from-home",
+  "status": "ready",
+  "topic": "The introduction can be replayed from mission home instead of disappearing after the first visit",
+  "language": "pl",
+  "formats": {
+    "instagramStories": {
+      "count": 5,
+      "width": 1080,
+      "height": 1920
+    },
+    "facebookLinkedin": {
+      "count": 2,
+      "width": 1200,
+      "height": 1500
+    }
+  },
+  "provenance": {
+    "illustrations": [
+      "next-app/public/art/gouache-mission-observatory.png",
+      "next-app/public/art/gouache-observatory-night.png",
+      "next-app/public/art/gouache-orbit-rescue.png"
+    ],
+    "productScreenshots": [
+      "source/home-rewatch-intro-1440x900.png"
+    ],
+    "productSources": [
+      "next-app/src/IntroExperience.jsx",
+      "next-app/src/introExperience.js",
+      "next-app/src/App.jsx",
+      "docs/agent/PRODUCT_CONTENT.md"
+    ],
+    "scienceSources": [],
+    "composition": "Deterministic AppKit render from social/source/render-human-product-packs.swift; native introduction art, actual intro chapter titles from next-app/src/introExperience.js, and a true localhost mission-home screen captured with social/source/capture-local-app.swift"
+  }
+}

@@ -1,8 +1,0 @@
-01 — Od początku plan był prosty: finalna aplikacja ma mówić prawdziwymi głosami.
-02 — Prototyp powstał szybko dzięki technologii; finał nagraliśmy w naszym studiu.
-03 — Feedback sześciolatka: „Wszystko fajnie, ale sztuczne głosy mnie denerwują.”
-04 — Nie zmienił planu. Utwierdził nas, że prawdziwe głosy mają sens.
-05 — Kontrola jakości: 121/121 momentów na właściwym miejscu.
-06 — Droga do premiery: pierwszy prompt, pierwsza publikacja, wersja z głosami.
-07 — Skala współpracy z modelem OpenAI i estymacja tokenów.
-08 — CTA: Kosmiczne Laboratorium jest już dostępne.
