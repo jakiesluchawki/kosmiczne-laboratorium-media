@@ -1,0 +1,45 @@
+{
+  "id": "2026-06-18-gravity-assist-step-by-step",
+  "status": "ready",
+  "topic": "Reduced-motion mode turns the gravity assist reconstruction into a step-by-step reading flow without removing the scientific sequence of Apollo 13",
+  "language": "pl",
+  "formats": {
+    "instagramStories": {
+      "count": 5,
+      "width": 1080,
+      "height": 1920
+    },
+    "facebookLinkedin": {
+      "count": 2,
+      "width": 1200,
+      "height": 1500
+    }
+  },
+  "provenance": {
+    "illustrations": [
+      "next-app/public/art/gouache-moon-observatory.png",
+      "next-app/public/art/gouache-mission-observatory.png",
+      "next-app/public/art/gouache-observatory-night.png",
+      "next-app/public/art/painted-apollo-13-docked.png",
+      "next-app/public/art/painted-earth.png",
+      "next-app/public/art/painted-moon.png"
+    ],
+    "productScreenshots": [
+      "source/apollo-step-1-1440x900.png",
+      "source/apollo-step-4-1440x900.png"
+    ],
+    "productSources": [
+      "next-app/src/GravityAssistLab.jsx",
+      "next-app/src/gravityAssistController.js",
+      "next-app/src/accessibilityPresets.js",
+      "next-app/src/App.jsx",
+      "next-app/GRAVITY_ASSIST_INTEGRATION.md",
+      "docs/agent/PRODUCT_CONTENT.md"
+    ],
+    "scienceSources": [
+      "https://www.nasa.gov/missions/apollo/apollo-13-mission-details/",
+      "https://science.nasa.gov/learn/basics-of-space-flight/primer/"
+    ],
+    "composition": "Deterministic AppKit render from social/source/render-gravity-assist-step-pack.swift; native observatory art, real localhost Apollo 13 reduced-motion screens captured with social/source/capture-local-app.swift, and no generated UI."
+  }
+}

@@ -9,7 +9,7 @@ Na stronie są dostępne bez logowania:
 
 - podsumowanie wykonanych prac, wszystkie główne linki i następne decyzje w PDF;
 - jeden ZIP ze wszystkimi gotowymi materiałami;
-- jeden ZIP ze wszystkimi czterdziestoma pięcioma gotowymi paczkami social;
+- jeden ZIP ze wszystkimi czterdziestoma ośmioma gotowymi paczkami social;
 - ogólny pakiet medialny w PDF, DOCX i ZIP;
 - propozycja współpracy dla Centrum Nauki Kopernik;
 - uniwersalny pakiet współpracy dla instytucji edukacyjnych i kulturalnych;
