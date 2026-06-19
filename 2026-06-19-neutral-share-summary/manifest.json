@@ -1,0 +1,40 @@
+{
+  "id": "2026-06-19-neutral-share-summary",
+  "status": "ready",
+  "topic": "The adult share action exports only neutral discovery metadata: the count of saved discoveries and completed topic names, without player names, predictions, or private responses",
+  "language": "pl",
+  "formats": {
+    "instagramStories": {
+      "count": 5,
+      "width": 1080,
+      "height": 1920
+    },
+    "facebookLinkedin": {
+      "count": 2,
+      "width": 1200,
+      "height": 1500
+    }
+  },
+  "provenance": {
+    "illustrations": [
+      "next-app/public/art/gouache-discovery-treasure-book.png",
+      "next-app/public/art/gouache-mission-observatory.png",
+      "next-app/public/art/gouache-observatory-night.png",
+      "next-app/public/art/painted-earth.png",
+      "next-app/public/art/painted-moon.png"
+    ],
+    "productScreenshots": [
+      "source/adult-share-desktop-1440x900.png",
+      "source/adult-share-phone-390x844.png"
+    ],
+    "productSources": [
+      "next-app/src/App.jsx",
+      "next-app/src/shareSummary.js",
+      "next-app/src/platform.js",
+      "next-app/tests/product.test.mjs",
+      "next-app/README.md",
+      "docs/agent/PRODUCT_CONTENT.md"
+    ],
+    "composition": "Deterministic AppKit render from social/source/render-neutral-share-summary-pack.swift; native application art, true localhost adult-settings screens captured with social/source/capture-local-app.swift, and the exact neutral share text generated from next-app/src/shareSummary.js."
+  }
+}
