@@ -1,0 +1,50 @@
+{
+  "id": "2026-06-21-three-missions-one-gravity-assist",
+  "status": "ready",
+  "topic": "The visible gravity-assist lab compares three real mission outcomes on one screen: Apollo 13 uses a free-return rescue loop, Voyager 2 gains outward momentum from successive flybys, and Galileo chains Venus-Earth-Earth assists toward Jupiter",
+  "language": "pl",
+  "formats": {
+    "instagramStories": {
+      "count": 5,
+      "width": 1080,
+      "height": 1920
+    },
+    "facebookLinkedin": {
+      "count": 2,
+      "width": 1200,
+      "height": 1500
+    }
+  },
+  "provenance": {
+    "illustrations": [
+      "next-app/public/art/gouache-mission-observatory.png",
+      "next-app/public/art/gouache-voyager-grand-tour.png",
+      "next-app/public/art/gouache-galileo-veega-single-earth.png",
+      "next-app/public/art/gouache-observatory-night.png",
+      "next-app/public/art/painted-apollo-13-docked.png",
+      "next-app/public/art/painted-voyager.png",
+      "next-app/public/art/painted-galileo.png",
+      "next-app/public/art/painted-earth.png",
+      "next-app/public/art/painted-moon.png"
+    ],
+    "productScreenshots": [
+      "source/apollo-tabs-desktop-1440x900.png",
+      "source/voyager-tabs-desktop-1440x900.png",
+      "source/galileo-phone-390x844.png"
+    ],
+    "productSources": [
+      "next-app/src/GravityAssistLab.jsx",
+      "next-app/src/gravityAssistMission.js",
+      "next-app/src/gravityAssistController.js",
+      "next-app/src/App.jsx",
+      "docs/agent/SCIENCE_GAMEPLAY.md"
+    ],
+    "scienceSources": [
+      "https://www.nasa.gov/missions/apollo/apollo-13-mission-details/",
+      "https://science.nasa.gov/learn/basics-of-space-flight/primer/",
+      "https://science.nasa.gov/mission/galileo/",
+      "https://science.nasa.gov/mission/voyager/voyager-2/"
+    ],
+    "composition": "Deterministic AppKit render from social/source/render-three-missions-one-gravity-assist-pack.swift; native observatory art, real localhost gravity-assist screens for Apollo 13, Voyager 2, and Galileo captured with social/source/capture-local-app.swift, and no generated UI."
+  }
+}
