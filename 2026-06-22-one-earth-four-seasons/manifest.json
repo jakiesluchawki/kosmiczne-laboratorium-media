@@ -1,0 +1,45 @@
+{
+  "id": "2026-06-22-one-earth-four-seasons",
+  "status": "ready",
+  "topic": "The live seasons lab shows one Earth across several moments of the same orbit, so a child can compare winter, spring, summer, and autumn without mistaking the model for four different planets or for distance-driven seasons",
+  "language": "pl",
+  "formats": {
+    "instagramStories": {
+      "count": 5,
+      "width": 1080,
+      "height": 1920
+    },
+    "facebookLinkedin": {
+      "count": 2,
+      "width": 1200,
+      "height": 1500
+    }
+  },
+  "provenance": {
+    "illustrations": [
+      "next-app/public/art/gouache-seasons-observatory-heliocentric.png",
+      "next-app/public/art/gouache-observatory-night.png",
+      "next-app/public/art/painted-earth.png",
+      "next-app/public/art/painted-sun.png"
+    ],
+    "productScreenshots": [
+      "source/season-winter-desktop-1440x900.png",
+      "source/season-summer-desktop-1440x900.png",
+      "source/season-summer-phone-390x844.png"
+    ],
+    "productSources": [
+      "next-app/src/App.jsx",
+      "next-app/src/seasonsGeometry.js",
+      "next-app/src/discoveryNavigation.js",
+      "docs/agent/SCIENCE_GAMEPLAY.md",
+      "docs/agent/PRODUCT_CONTENT.md",
+      "docs/agent/VISUAL_UX.md"
+    ],
+    "scienceSources": [
+      "https://spaceplace.nasa.gov/seasons/",
+      "https://science.nasa.gov/helio-and-you-seasons-on-earth-mars-and-beyond/",
+      "https://svs.gsfc.nasa.gov/14366/"
+    ],
+    "composition": "Deterministic AppKit render from social/source/render-one-earth-four-seasons-pack.swift; native observatory illustrations plus real localhost seasons-lab screens captured with social/source/capture-local-app.swift, with no generated UI."
+  }
+}
