@@ -1,0 +1,53 @@
+{
+  "id": "2026-06-23-gravity-assist-clickable-stages",
+  "status": "ready",
+  "topic": "The live gravity-assist lab lets a child jump directly to named mission stages like Saturn changing Voyager 2's direction or Galileo's second Earth flyby, so the explanation stays tied to a precise moment instead of one continuous animation",
+  "language": "pl",
+  "formats": {
+    "instagramStories": {
+      "count": 5,
+      "width": 1080,
+      "height": 1920
+    },
+    "facebookLinkedin": {
+      "count": 2,
+      "width": 1200,
+      "height": 1500
+    }
+  },
+  "provenance": {
+    "illustrations": [
+      "next-app/public/art/gouache-observatory-night.png",
+      "next-app/public/art/gouache-mission-observatory.png",
+      "next-app/public/art/gouache-moon-observatory.png",
+      "next-app/public/art/gouache-voyager-grand-tour.png",
+      "next-app/public/art/gouache-galileo-veega-single-earth.png",
+      "next-app/public/art/painted-apollo-13-docked.png",
+      "next-app/public/art/painted-voyager.png",
+      "next-app/public/art/painted-galileo.png",
+      "next-app/public/art/painted-earth.png",
+      "next-app/public/art/painted-moon.png"
+    ],
+    "productScreenshots": [
+      "source/apollo-intro-desktop-1440x900.png",
+      "source/galileo-stage4-desktop-1440x900.png",
+      "source/voyager-stage3-phone-390x844.png",
+      "source/voyager-timeline-desktop-1440x900.png"
+    ],
+    "productSources": [
+      "next-app/src/GravityAssistLab.jsx",
+      "next-app/src/gravityAssistMission.js",
+      "next-app/src/gravityAssistController.js",
+      "next-app/src/App.jsx",
+      "docs/agent/SCIENCE_GAMEPLAY.md",
+      "docs/agent/PRODUCT_CONTENT.md"
+    ],
+    "scienceSources": [
+      "https://www.nasa.gov/history/50-years-ago-apollo-13-off-to-the-moon/",
+      "https://science.nasa.gov/learn/basics-of-space-flight/primer/",
+      "https://science.nasa.gov/mission/voyager/voyager-2/",
+      "https://science.nasa.gov/mission/galileo/"
+    ],
+    "composition": "Deterministic AppKit render from social/source/render-gravity-assist-clickable-stages-pack.swift; native observatory illustrations plus real localhost gravity-assist screens captured with social/source/capture-local-app.swift, with no generated UI."
+  }
+}
