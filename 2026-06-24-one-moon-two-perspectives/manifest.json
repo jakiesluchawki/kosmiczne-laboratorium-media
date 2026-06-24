@@ -1,0 +1,42 @@
+{
+  "id": "2026-06-24-one-moon-two-perspectives",
+  "status": "ready",
+  "topic": "The live Moon lab shows the same lunar phase simultaneously on the orbit diagram and in the telescope eyepiece, so a child can connect one position in space with one view from Earth on a single screen",
+  "language": "pl",
+  "formats": {
+    "instagramStories": {
+      "count": 5,
+      "width": 1080,
+      "height": 1920
+    },
+    "facebookLinkedin": {
+      "count": 2,
+      "width": 1200,
+      "height": 1500
+    }
+  },
+  "provenance": {
+    "illustrations": [
+      "next-app/public/art/gouache-moon-observatory.png",
+      "next-app/public/art/painted-moon.png"
+    ],
+    "productScreenshots": [
+      "source/moon-quarter-desktop-1440x900.png",
+      "source/moon-quarter-phone-390x844.png"
+    ],
+    "productSources": [
+      "next-app/src/MoonLab.jsx",
+      "next-app/src/moonModel.js",
+      "next-app/src/App.jsx",
+      "docs/agent/SCIENCE_GAMEPLAY.md",
+      "docs/agent/PRODUCT_CONTENT.md",
+      "docs/agent/VISUAL_UX.md"
+    ],
+    "scienceSources": [
+      "https://science.nasa.gov/moon/moon-phases/",
+      "https://science.nasa.gov/moon/top-moon-questions/",
+      "https://science.nasa.gov/resource/the-moons-rotation/"
+    ],
+    "composition": "Deterministic AppKit render from social/source/render-one-moon-two-perspectives-pack.swift; native observatory illustrations plus real localhost Moon-lab screens captured with social/source/capture-local-app.swift, with no generated UI."
+  }
+}
