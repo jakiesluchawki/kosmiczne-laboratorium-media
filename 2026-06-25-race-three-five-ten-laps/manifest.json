@@ -1,0 +1,41 @@
+{
+  "id": "2026-06-25-race-three-five-ten-laps",
+  "status": "ready",
+  "topic": "The orbital race lets two players choose a short, medium, or long session with 3, 5, or 10 green laps without changing the underlying orbit rule",
+  "language": "pl",
+  "formats": {
+    "instagramStories": {
+      "count": 5,
+      "width": 1080,
+      "height": 1920
+    },
+    "facebookLinkedin": {
+      "count": 2,
+      "width": 1200,
+      "height": 1500
+    }
+  },
+  "provenance": {
+    "illustrations": [
+      "next-app/public/art/gouache-orbit-rescue.png",
+      "next-app/public/art/gouache-observatory-night.png",
+      "next-app/public/art/painted-orbit-car-mint.png",
+      "next-app/public/art/painted-orbit-car-coral.png"
+    ],
+    "productScreenshots": [
+      "source/race-ten-laps-desktop-1440x900.png",
+      "source/race-phone-settings-390x844.png"
+    ],
+    "productSources": [
+      "next-app/src/RaceGame.jsx",
+      "next-app/src/App.jsx",
+      "docs/agent/SCIENCE_GAMEPLAY.md",
+      "docs/agent/PRODUCT_CONTENT.md",
+      "docs/agent/VISUAL_UX.md"
+    ],
+    "scienceSources": [
+      "https://spaceplace.nasa.gov/orbits/en/"
+    ],
+    "composition": "Deterministic AppKit render from social/source/render-race-three-five-ten-laps-pack.swift; native observatory illustrations plus real localhost race screens captured with social/source/capture-local-app.swift."
+  }
+}
