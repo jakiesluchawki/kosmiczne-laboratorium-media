@@ -1,0 +1,43 @@
+{
+  "id": "2026-06-26-crew-setup-before-shared-mission",
+  "status": "ready",
+  "topic": "Choosing the two-player orbital bonus mission from solo mode opens a crew setup with a clear solo-versus-together choice, optional local player names, and only then the shared orbital screen on one device",
+  "language": "pl",
+  "formats": {
+    "instagramStories": {
+      "count": 5,
+      "width": 1080,
+      "height": 1920
+    },
+    "facebookLinkedin": {
+      "count": 2,
+      "width": 1200,
+      "height": 1500
+    }
+  },
+  "provenance": {
+    "illustrations": [
+      "next-app/public/art/gouache-mission-observatory.png",
+      "next-app/public/art/gouache-orbit-rescue.png"
+    ],
+    "productScreenshots": [
+      "source/mission-home-duo-card-1440x900.png",
+      "source/crew-setup-choice-1440x900.png",
+      "source/crew-setup-names-1440x900.png",
+      "source/crew-mission-phone-390x844.png"
+    ],
+    "productSources": [
+      "next-app/src/App.jsx",
+      "next-app/src/playerSetupFlow.js",
+      "next-app/src/bonusMissions.js",
+      "next-app/src/RaceGame.jsx",
+      "docs/agent/PRODUCT_CONTENT.md",
+      "docs/agent/VISUAL_UX.md"
+    ],
+    "scienceSources": [
+      "https://www.nasa.gov/learning-resources/for-kids-and-students/what-is-an-orbit-grades-5-8/",
+      "https://science.nasa.gov/learn/basics-of-space-flight/chapter3-2/"
+    ],
+    "composition": "Deterministic AppKit render from social/source/render-crew-setup-before-shared-mission-pack.swift; native observatory illustrations plus real localhost mission-home, crew-setup, and phone mission screens captured with social/source/capture-local-app.swift."
+  }
+}
