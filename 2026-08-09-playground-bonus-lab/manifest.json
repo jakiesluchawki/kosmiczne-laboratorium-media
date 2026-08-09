@@ -1,0 +1,45 @@
+{
+  "id": "2026-08-09-playground-bonus-lab",
+  "status": "ready",
+  "topic": "Mission home exposes a bonus Kosmiczny plac zabaw card that opens a free-play gravity lab with prediction, live mass changes, and the same core experiment on desktop and phone",
+  "language": "pl",
+  "formats": {
+    "instagramStories": {
+      "count": 5,
+      "width": 1080,
+      "height": 1920
+    },
+    "facebookLinkedin": {
+      "count": 2,
+      "width": 1200,
+      "height": 1500
+    }
+  },
+  "provenance": {
+    "illustrations": [
+      "next-app/public/art/gouache-observatory-night.png",
+      "next-app/public/art/gouache-mission-observatory.png",
+      "next-app/public/art/painted-earth.png",
+      "next-app/public/art/painted-projectile.png"
+    ],
+    "productScreenshots": [
+      "source/mission-home-playground-card-1440x900.png",
+      "source/playground-desktop-1440x900.png",
+      "source/playground-phone-390x844.png"
+    ],
+    "productSources": [
+      "next-app/src/bonusMissions.js",
+      "next-app/src/App.jsx",
+      "next-app/src/playgroundPhysics.js",
+      "next-app/src/playgroundKeyboard.js",
+      "docs/agent/SCIENCE_GAMEPLAY.md",
+      "docs/agent/PRODUCT_CONTENT.md"
+    ],
+    "scienceSources": [
+      "https://www.nasa.gov/learning-resources/for-kids-and-students/what-is-an-orbit-grades-5-8/",
+      "https://science.nasa.gov/learn/basics-of-space-flight/"
+    ],
+    "composition": "Deterministic AppKit render from social/source/render-playground-bonus-lab-pack.swift; native observatory illustrations plus real localhost mission-home, desktop playground, and phone playground screens captured with social/source/capture-local-app.swift."
+  }
+}
+
