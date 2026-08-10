@@ -1,0 +1,43 @@
+{
+  "id": "2026-08-10-solo-or-together-first",
+  "status": "ready",
+  "topic": "Before entering the observatory, the app first asks whether today's exploration is solo or shared, keeps player names optional and local, and avoids account-style setup before opening the mission map",
+  "language": "pl",
+  "formats": {
+    "instagramStories": {
+      "count": 5,
+      "width": 1080,
+      "height": 1920
+    },
+    "facebookLinkedin": {
+      "count": 2,
+      "width": 1200,
+      "height": 1500
+    }
+  },
+  "provenance": {
+    "illustrations": [
+      "next-app/public/art/gouache-mission-observatory.png",
+      "next-app/public/art/gouache-observatory-night.png",
+      "next-app/public/art/gouache-orbit-rescue.png"
+    ],
+    "productScreenshots": [
+      "source/player-choice-desktop-1440x900.png",
+      "source/player-choice-phone-390x844.png",
+      "source/mission-home-solo-desktop-1440x900.png",
+      "source/player-names-desktop-1440x900.png",
+      "source/player-names-phone-390x844.png"
+    ],
+    "productSources": [
+      "next-app/src/App.jsx",
+      "next-app/src/playerSetupFlow.js",
+      "next-app/src/bonusMissions.js",
+      "docs/agent/PRODUCT_CONTENT.md"
+    ],
+    "scienceSources": [
+      "https://www.nasa.gov/learning-resources/for-kids-and-students/what-is-an-orbit-grades-5-8/",
+      "https://science.nasa.gov/learn/basics-of-space-flight/"
+    ],
+    "composition": "Deterministic AppKit render from social/source/render-solo-or-together-first-pack.swift; native observatory illustrations plus real localhost first-choice, optional-name, and solo mission-home screens captured with social/source/capture-local-app.swift."
+  }
+}
