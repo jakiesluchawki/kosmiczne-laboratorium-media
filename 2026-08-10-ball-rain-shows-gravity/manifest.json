@@ -1,0 +1,42 @@
+{
+  "id": "2026-08-10-ball-rain-shows-gravity",
+  "status": "ready",
+  "topic": "The bonus playground includes a Deszcz kulek control that launches many small trials through the same gravity field, letting a child compare several curved paths at once on desktop and phone",
+  "language": "pl",
+  "formats": {
+    "instagramStories": {
+      "count": 5,
+      "width": 1080,
+      "height": 1920
+    },
+    "facebookLinkedin": {
+      "count": 2,
+      "width": 1200,
+      "height": 1500
+    }
+  },
+  "provenance": {
+    "illustrations": [
+      "next-app/public/art/gouache-observatory-night.png",
+      "next-app/public/art/gouache-mission-observatory.png",
+      "next-app/public/art/painted-earth.png",
+      "next-app/public/art/painted-projectile.png"
+    ],
+    "productScreenshots": [
+      "source/playground-rain-focus-desktop-1440x900.png",
+      "source/playground-rain-paused-desktop-1440x900.png",
+      "source/playground-rain-paused-phone-390x844.png"
+    ],
+    "productSources": [
+      "next-app/src/App.jsx",
+      "next-app/src/playgroundPhysics.js",
+      "docs/agent/SCIENCE_GAMEPLAY.md",
+      "docs/agent/PRODUCT_CONTENT.md"
+    ],
+    "scienceSources": [
+      "https://spaceplace.nasa.gov/what-is-gravity/",
+      "https://www.nasa.gov/learning-resources/for-kids-and-students/what-is-an-orbit-grades-5-8/"
+    ],
+    "composition": "Deterministic AppKit render from social/source/render-ball-rain-shows-gravity-pack.swift; native observatory illustrations plus real localhost playground screens captured with social/source/capture-local-app.swift."
+  }
+}
