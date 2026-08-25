@@ -1,0 +1,47 @@
+{
+  "id": "2026-08-25-one-screen-two-orbit-modes",
+  "status": "ready",
+  "topic": "The same two-player orbit screen switches between a cooperative crew mission and a competitive race without teaching two separate control systems",
+  "language": "pl",
+  "formats": {
+    "instagramStories": {
+      "count": 5,
+      "width": 1080,
+      "height": 1920
+    },
+    "facebookLinkedin": {
+      "count": 2,
+      "width": 1200,
+      "height": 1500
+    }
+  },
+  "provenance": {
+    "illustrations": [
+      "next-app/public/art/gouache-orbit-rescue.png",
+      "next-app/public/art/gouache-observatory-night.png",
+      "next-app/public/art/painted-orbit-car-mint.png",
+      "next-app/public/art/painted-orbit-car-coral.png"
+    ],
+    "productScreenshots": [
+      "source/race-mode-desktop-1440x900.png",
+      "source/crew-mode-desktop-1440x900.png",
+      "source/race-mode-phone-390x844.png",
+      "source/crew-mode-phone-390x844.png"
+    ],
+    "productSources": [
+      "next-app/src/RaceGame.jsx",
+      "next-app/src/crewMission.js",
+      "next-app/src/racePhysics.js",
+      "next-app/src/raceControls.js",
+      "next-app/src/App.jsx",
+      "docs/agent/SCIENCE_GAMEPLAY.md",
+      "docs/agent/PRODUCT_CONTENT.md"
+    ],
+    "scienceSources": [
+      "https://science.nasa.gov/learn/basics-of-space-flight/chapter3-4/",
+      "https://science.nasa.gov/learn/basics-of-space-flight/chapter3-3/",
+      "https://science.nasa.gov/solar-system/orbits-and-keplers-laws/"
+    ],
+    "composition": "Deterministic AppKit render from social/source/render-one-screen-two-orbit-modes-pack.swift; native observatory art plus real localhost desktop and phone orbit screens captured through the Codex in-app browser with responsive viewport overrides, with no generated UI."
+  }
+}
