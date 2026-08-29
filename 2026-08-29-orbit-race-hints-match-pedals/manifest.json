@@ -1,0 +1,42 @@
+{
+  "id": "2026-08-29-orbit-race-hints-match-pedals",
+  "status": "ready",
+  "topic": "The live orbital race uses the same HAMUJ and DOPALAJ words in the on-screen hint and the real control pedals, linking explanation directly to action on desktop and phone",
+  "language": "pl",
+  "formats": {
+    "instagramStories": {
+      "count": 5,
+      "width": 1080,
+      "height": 1920
+    },
+    "facebookLinkedin": {
+      "count": 2,
+      "width": 1200,
+      "height": 1500
+    }
+  },
+  "provenance": {
+    "illustrations": [
+      "next-app/public/art/gouache-orbit-rescue.png",
+      "next-app/public/art/gouache-observatory-night.png",
+      "next-app/public/art/painted-orbit-car-mint.png",
+      "next-app/public/art/painted-orbit-car-coral.png"
+    ],
+    "productScreenshots": [
+      "source/orbit-desktop-1440x900.png",
+      "source/orbit-phone-390x844.png"
+    ],
+    "productSources": [
+      "next-app/src/RaceGame.jsx",
+      "next-app/src/raceControls.js",
+      "docs/agent/SCIENCE_GAMEPLAY.md"
+    ],
+    "scienceSources": [
+      "https://spaceplace.nasa.gov/what-is-gravity/",
+      "https://spaceplace.nasa.gov/orbits/en/",
+      "https://science.nasa.gov/learn/basics-of-space-flight/chapter3-4/",
+      "https://www.jpl.nasa.gov/edu/resources/lesson-plan/balancing-forces/"
+    ],
+    "composition": "Deterministic AppKit render from social/source/render-orbit-race-hints-match-pedals-pack.swift; native observatory art plus real localhost desktop and phone race screens captured with social/source/capture-local-app.swift through WebKit, with no generated UI."
+  }
+}
