@@ -1,0 +1,42 @@
+{
+  "id": "2026-08-30-orbit-gauge-shows-good-orbit",
+  "status": "ready",
+  "topic": "The live orbital race gives each player a gauge with a green safe band between HAMUJ and DOPALAJ, showing when the corrected path returns to DOBRA ORBITA on desktop and phone",
+  "language": "pl",
+  "formats": {
+    "instagramStories": {
+      "count": 5,
+      "width": 1080,
+      "height": 1920
+    },
+    "facebookLinkedin": {
+      "count": 2,
+      "width": 1200,
+      "height": 1500
+    }
+  },
+  "provenance": {
+    "illustrations": [
+      "next-app/public/art/gouache-orbit-rescue.png",
+      "next-app/public/art/gouache-observatory-night.png",
+      "next-app/public/art/painted-orbit-car-mint.png",
+      "next-app/public/art/painted-orbit-car-coral.png"
+    ],
+    "productScreenshots": [
+      "source/orbit-desktop-1440x900.png",
+      "source/orbit-desktop-scroll-1440x900.png",
+      "source/orbit-phone-390x844.png"
+    ],
+    "productSources": [
+      "next-app/src/RaceGame.jsx",
+      "next-app/src/raceControls.js",
+      "docs/agent/SCIENCE_GAMEPLAY.md"
+    ],
+    "scienceSources": [
+      "https://spaceplace.nasa.gov/satellite/en/",
+      "https://science.nasa.gov/learn/basics-of-space-flight/chapter4-1/",
+      "https://science.nasa.gov/blogs/the-sun-spot/2018/11/07/how-to-be-an-orbital-mechanic-reading-orbit-plots-with-parker-solar-probe/"
+    ],
+    "composition": "Deterministic AppKit render from social/source/render-orbit-gauge-shows-good-orbit-pack.swift; native observatory art plus real localhost desktop and phone race screens captured with social/source/capture-local-app.swift through WebKit, with no generated UI. The educational claim interprets NASA orbit-balance and apoapsis/periapsis guidance into a child-readable race gauge rather than presenting a literal mission plot."
+  }
+}
